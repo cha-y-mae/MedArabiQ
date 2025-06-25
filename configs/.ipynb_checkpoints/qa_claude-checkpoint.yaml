@@ -3,7 +3,7 @@ experiment_name: qa_claude
 model: 
   type: anthropic                              #model handler type: openai, huggingface, llama
   name: claude-3-5-sonnet-20240620             #model name 
-  api_key: "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"
+  api_key: ""
 
 cache_dir: /scratch/ca2627/huggingface #modify to your own cache directory
 
