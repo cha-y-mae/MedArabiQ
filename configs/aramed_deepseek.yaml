@@ -3,7 +3,7 @@ experiment_name: aramed_deepseek
 model: 
   type: deepseek                              #model handler type: openai, huggingface, llama
   name: deepseek-chat             #model name 
-  api_key: "sk-4e34a449f06447ac91df4039f41b7418"
+  api_key: ""
 
 
 dataset:
