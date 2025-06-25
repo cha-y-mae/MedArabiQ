@@ -33,7 +33,7 @@ class Claude35SonnetHandler(ModelHandlerBase):
     Handler for Anthropic's Claude 3.5 Sonnet model (post-March 2024 API).
     """
     def __init__(self, api_key, model_name="claude-3-5-sonnet-20240620"):
-        self.client = anthropic.Anthropic(api_key="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")
+        self.client = anthropic.Anthropic(api_key="")
         self.model_name = model_name
 
     def prompt(self, input_text, task=" ", system_prompt="This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation", **kwargs):
