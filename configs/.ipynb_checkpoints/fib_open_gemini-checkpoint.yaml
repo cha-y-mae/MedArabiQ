@@ -3,7 +3,7 @@ experiment_name: fib_open_gemini
 model:
   type: gemini            # Model handler type: openai, huggingface, llama
   name: gemini-1.5-pro            # Model name or identifier
-  api_key: "AIzaSyDCvuvgs8IfQnj8TqlW_RQENI8A8ApPeyk"
+  api_key: ""
 
 cache_dir: /scratch/ca2627/huggingface #modify to your own cache directory
 
