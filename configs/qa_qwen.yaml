@@ -1,0 +1,16 @@
+experiment_name: qa_qwen
+
+model:
+  type: huggingface            # Model handler type: openai, huggingface, llama
+  name: Qwen/Qwen2.5-7B-Instruct             # Model name or identifier
+
+dataset:
+  path: datasets/qa/qa.json    # Path to dataset JSON file
+  instruction_path: datasets/qa/default2.txt  # Path to instruction file (default.txt)
+
+task:
+  type: qa                # Task type: qa, summarization, etc.
+
+output:
+  predictions_path: results/predictions/qa2_qwen.csv
+  metrics_path: results/metrics/qa2_qwen.json

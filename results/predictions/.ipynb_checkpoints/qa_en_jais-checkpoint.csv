@@ -1,0 +1,176 @@
+id,input,prediction,ground_truth
+1,"All of the following about syphilis are true except:
+A. The first stage is characterized by negative serological tests.
+B. The first stage is characterized by a painful hard chancre on the genitals.
+C. The second stage presents with rashes on the skin and mucous membranes.
+D. 25% of fetuses die after birth from an infected mother.
+E. A child with congenital syphilis suffers from Hutchinson's teeth.","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation.
+    
+    Question: All of the following about syphilis are true except:
+    
+    Options:
+    A. The first stage is characterized by negative serological tests.
+B. The first stage is characterized by a painful hard chancre on the genitals.
+C. The second stage presents with rashes on the skin and mucous membranes.
+D. 25% of fetuses die after birth from an infected mother.
+    Correct letter: 
+```
+
+```{r}
+# Define the function to be used in the quiz
+quiz_function <- function(question, correct_answer, options) {
+  # Create a list of the correct answer and the options
+  correct_answer <- paste0(correct_answer, ""\n"")
+  options <- paste0(options, ""\n"")
+  # Create a list of the question and the options
+  question <- paste0(question, ""\n"")
+  options <- paste",B. The first stage is characterized by a painful hard chancre on the genitals
+2,"Palliative treatments for malignant ascites include:
+A. Chemotherapy for the abdominal tumor.
+B. Abdominal radiation therapy.
+C. Diuretics.
+D. Repeated paracentesis.
+E. Peritoneovenous shunt.","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation.
+    
+    Question: Palliative treatments for malignant ascites include:
+    
+    Options:
+    A. Chemotherapy for the abdominal tumor.
+B. Abdominal radiation therapy.
+C. Diuretics.
+D. Repeated paracentesis.
+    Correct letter: 
+```
+
+## Solution
+
+```python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python",D. Repeated paracentesis.
+3,"Which of the following is least likely to be affected in tumoral exophthalmos?
+A. Optic nerve.
+B. Oculomotor nerve (CN III).
+C. Abducens nerve (CN VI).
+D. Vagus nerve (CN X).
+E. None of the above are affected.","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation.
+    
+    Question: Which of the following is least likely to be affected in tumoral exophthalmos?
+    
+    Options:
+    A. Optic nerve.
+B. Oculomotor nerve (CN III).
+C. Abducens nerve (CN VI).
+D. Vagus nerve (CN X).
+    Correct letter: 
+```
+
+## Solution
+
+```python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python
+# Solution - Python",D. Vagus nerve (CN X).
+4,"All of the following about the mesentery are true except:
+A. It consists of a single layer of peritoneum.
+B. It allows passage of nerves and vessels to the viscera.
+C. The falciform ligament is derived from the ventral mesentery.
+D. The greater omentum originates from the dorsal mesentery of the stomach.
+E. The mesentery of the jejunum and ileum is dorsal in origin.","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation.
+    
+    Question: All of the following about the mesentery are true except:
+    
+    Options:
+    A. It consists of a single layer of peritoneum.
+B. It allows passage of nerves and vessels to the viscera.
+C. The falciform ligament is derived from the ventral mesentery.
+D. The greater omentum originates from the dorsal mesentery of the stomach.
+    Correct letter: 
+```
+
+## Solution
+
+```python
+# Solution - Python
+# The solution is a Python program that takes the input from the user and prints the output.
+
+# The program should prompt the user to enter a question.
+question = input(""Question: "")
+
+# The program should prompt the user to enter their answer.
+answer = input(""Options: "")
+
+# The program should print the correct answer.
+print(""Correct letter: "")
+
+",A. It consists of a single layer of peritoneum
+5,"Which of the following ovarian follicle components secretes androstenedione?
+A. Follicular cells.
+B. Granulosa cells.
+C. Theca interna cells.
+D. Theca externa cells.
+E. Primary oocyte.","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation.
+    
+    Question: Which of the following ovarian follicle components secretes androstenedione?
+    
+    Options:
+    A. Follicular cells.
+B. Granulosa cells.
+C. Theca interna cells.
+D. Theca externa cells.
+    Correct letter: 
+```
+
+## Solution
+
+```python
+# Solution - Python
+# The correct answer is C.
+
+# The correct answer is C.
+
+# The correct answer is C.
+
+# The correct answer is C.
+
+# The correct answer is C.
+
+# The correct answer is C.
+
+# The correct answer is C.
+
+# The correct answer is C.
+
+# The correct answer is C.
+
+# The correct",C. Theca interna cells.

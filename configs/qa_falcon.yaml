@@ -1,0 +1,17 @@
+experiment_name: qa_falcon
+
+model:
+  type: huggingface            # Specify Hugging Face handler
+  name: tiiuae/Falcon3-10B-Instruct       # Model name or identifier
+  cache_dir: /scratch/ca2627/huggingface_cache  # Optional: Specify a custom cache directory
+
+dataset:
+  path: datasets/qa/qa.json  # Dataset file path
+  instruction_path: datasets/qa/default2.txt  # Instruction file path
+
+task:
+  type: qa
+
+output:
+  predictions_path: results/predictions/qa_falcon.csv
+  metrics_path: results/metrics/qa_falcon.json

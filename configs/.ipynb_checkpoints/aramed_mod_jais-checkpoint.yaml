@@ -1,0 +1,19 @@
+experiment_name: aramed_mod_jais
+
+model:
+  type: huggingface           #model handler type: openai, huggingface, llama
+  name: inceptionai/jais-13b-chat            #model name 
+
+cache_dir: /scratch/ca2627/huggingface #modify to your own cache directory
+
+dataset:
+  path: datasets/aramed_mod/mod_aramed.json    #path to dataset JSON file
+  instruction_path: datasets/aramed_mod/default.txt  #path to instruction file (default.txt)
+
+task:
+  type: aramed                #task type: qa, summarization, rag, etc...
+
+output:
+  predictions_path: results/predictions/aramed_mod_jais.csv #specify output pred file
+  metrics_path: results/metrics/aramed_mod_jais.json  #specift output pred file
+

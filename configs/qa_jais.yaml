@@ -1,0 +1,18 @@
+experiment_name: qa_jais
+
+model:
+  type: huggingface            # Model handler type: openai, huggingface, llama
+  name: inceptionai/jais-13b-chat            # Model name or identifier
+
+cache_dir: /scratch/ca2627/huggingface
+
+dataset:
+  path: datasets/qa/qa.json    # Path to dataset JSON file
+  instruction_path: datasets/qa/default.txt  # Path to instruction file (default.txt)
+
+task:
+  type: qa                # Task type: qa, summarization, etc.
+
+output:
+  predictions_path: results/predictions/qa_en_jais.csv
+  metrics_path: results/metrics/qa_en_jais.json

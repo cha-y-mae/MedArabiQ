@@ -1,0 +1,19 @@
+experiment_name: aramed_gpt4 
+
+model:
+  type: openai            #model handler type: openai, huggingface, llama
+  name: gpt-4             #model name 
+
+cache_dir: /scratch/ca2627/huggingface #modify to your own cache directory
+
+dataset:
+  path: datasets/aramed/aramed.json    #path to dataset JSON file
+  instruction_path: datasets/aramed/default.txt  #path to instruction file (default.txt)
+
+task:
+  type: aramed                #task type: qa, summarization, rag, etc...
+
+output:
+  predictions_path: results/predictions/aramed_gpt4.csv #specify output pred file
+  metrics_path: results/metrics/aramed_gpt4.json  #specift output pred file
+

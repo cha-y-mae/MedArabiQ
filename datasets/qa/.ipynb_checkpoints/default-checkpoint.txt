@@ -1,0 +1,3 @@
+This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+

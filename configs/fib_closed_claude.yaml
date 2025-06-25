@@ -1,0 +1,20 @@
+experiment_name: fib_closed_claude 
+
+model: 
+  type: anthropic                              #model handler type: openai, huggingface, llama
+  name: claude-3-5-sonnet-20240620             #model name 
+  api_key: "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"
+
+cache_dir: /scratch/ca2627/huggingface #modify to your own cache directory
+
+dataset:
+  path: datasets/fib_closed/fib_ar.json    #path to dataset JSON file
+  instruction_path: datasets/fib_closed/default.txt  #path to instruction file (default.txt)
+
+task:
+  type: fib_closed                #task type: qa, summarization, rag, etc...
+
+output:
+  predictions_path: results/predictions/fib_closed_claude.csv #specify output pred file
+  metrics_path: results/metrics/fib_closed_claude.json  #specift output pred file
+

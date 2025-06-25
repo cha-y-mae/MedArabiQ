@@ -1,0 +1,18 @@
+[
+    {
+        "Question": "I am a 24-year-old woman experiencing severe abdominal pain, bloating, cramps, nausea, loss of appetite, stabbing sensations in my abdomen, and internal heat. Anything I eat causes pain afterward.",
+        "Answer": "Please perform a stool analysis and provide the results for proper diagnosis and treatment. Increase water intake, consume fiber-rich foods, and divide meals into small, frequent portions throughout the day."
+    },
+    {
+        "Question": "Hello, I am a 32-year-old woman suffering from numbness in my back and shoulders. What could be the cause, and what is the treatment?",
+        "Answer": "There are many possible causes. You should consult a rheumatologist for a clinical examination, imaging tests, and blood analysis to determine the necessary treatment or referral to the appropriate specialty."
+    },
+    {
+        "Question": "I am a 33-year-old woman. For the past four days, I have been experiencing severe pain in my legs, and today I noticed unusual swelling.",
+        "Answer": "The causes are varied and numerous. A clinical examination is very important. You should consult a general physician or rheumatologist for the necessary medical tests or referral to the relevant specialist."
+    },
+    {
+        "Question": "I am a 37-year-old woman. I suffered a third-degree burn on the top of my foot. As the burn began healing, I started experiencing numbness, muscle tightness, and nerve pain around my ankle and foot. What is causing this, and what is the treatment?",
+        "Answer": "A clinical examination is essential. You should see your doctor to undergo necessary evaluations or be referred to the appropriate specialist."
+    }
+]

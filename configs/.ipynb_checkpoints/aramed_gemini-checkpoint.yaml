@@ -1,0 +1,20 @@
+experiment_name: aramed_gemini
+
+model:
+  type: gemini            # Model handler type: openai, huggingface, llama
+  name: gemini-1.5-pro            # Model name or identifier
+  api_key: "AIzaSyDBukhtho_Jn_hP38qXijG_HS4KVtxcsDE"
+
+cache_dir: /scratch/ca2627/huggingface #modify to your own cache directory
+
+dataset:
+  path: datasets/aramed/aramed.json    #path to dataset JSON file
+  instruction_path: datasets/aramed/default.txt  #path to instruction file (default.txt)
+
+task:
+  type: aramed                #task type: qa, summarization, rag, etc...
+
+output:
+  predictions_path: results/predictions/aramed_gemini.csv #specify output pred file
+  metrics_path: results/metrics/aramed_gemini.json  #specift output pred file
+

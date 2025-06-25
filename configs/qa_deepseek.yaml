@@ -1,0 +1,20 @@
+experiment_name: qa_deepseek  
+
+model: 
+  type: deepseek                              #model handler type: openai, huggingface, llama
+  name: deepseek-chat             #model name 
+  api_key: "sk-4e34a449f06447ac91df4039f41b7418"
+
+cache_dir: /scratch/ca2627/huggingface #modify to your own cache directory
+
+dataset:
+  path: datasets/qa/qa.json    #path to dataset JSON file
+  instruction_path: datasets/qa/default2.txt  #path to instruction file (default.txt)
+
+task:
+  type: qa                #task type: qa, summarization, rag, etc...
+
+output:
+  predictions_path: results/predictions/qa_deepseek.csv #specify output pred file
+  metrics_path: results/metrics/qa_deepseek.json  #specift output pred file
+

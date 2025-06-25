@@ -1,0 +1,1 @@
+This is a multiple choice question, chose the correct option. Only output the single letter of the correct answer with no extra text.

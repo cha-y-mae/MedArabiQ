@@ -1,0 +1,3027 @@
+id,input,prediction,ground_truth
+1,"كل ما هو آت صحيح عن محفظة بومان ما عدا:
+أ. تتداخل الاستطالات القدمية مع بعضها لتشكيل شقوق الرشح
+ب. تتصل المسافة المحفظية بجوفها مع لمعة الأنبوب للقريب
+ج. تعطي الوريقة الحشوية استطالات ترافق تفرعات الاوعية
+د. ترسل الخلايت تلقدمية استطالات سيتوبلاسمية باتجاه المسافة المحفظية","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كل ما هو آت صحيح عن محفظة بومان ما عدا:
+    
+    Options:
+    أ. تتداخل الاستطالات القدمية مع بعضها لتشكيل شقوق الرشح
+ب. تتصل المسافة المحفظية بجوفها مع لمعة الأنبوب للقريب
+ج. تعطي الوريقة الحشوية استطالات ترافق تفرعات الاوعية
+د. ترسل الخلايت تلقدمية استطالات سيتوبلاسمية باتجاه المسافة المحفظية
+    A: 
+
+    
+    B: 
+
+    
+    C:",د. ترسل الخلايت تلقدمية استطالات سيتوبلاسمية باتجاه المسافة المحفظية
+2,"كل ما يلي صحيح عن السفلس ماعدا:
+أ. يتميز الطور الاول بسلبية الاختبارات المصلية
+ب. يتميز الطور الاول بقرحة صلبة مؤلمة غلى الاعضاء التناسلية
+ج. يتميز الطور الثاني باندفاعات على الجلد والاغشية المخاطية
+د. %25 من الاجنة تموت بعد الوالدة من ام مصابة
+ه. يعاني الطفل ألمصاب بالزهري الخلقي من اسنان هوتشنسن","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كل ما يلي صحيح عن السفلس ماعدا:
+    
+    Options:
+    أ. يتميز الطور الاول بسلبية الاختبارات المصلية
+ب. يتميز الطور الاول بقرحة صلبة مؤلمة غلى الاعضاء التناسلية
+ج. يتميز الطور الثاني باندفاعات على الجلد والاغشية المخاطية
+د. %25 من الاجنة تموت بعد الوالدة من ام مصابة
+    A: 
+    
+    
+    
+
+
+* Clear choice","ب. يتميز الطور الاول بقرحة صلبة مؤلمة غلى الاعضاء التناسلية
+"
+3,"من العلاجات التلطيفية للحبن الخبيث:
+
+أ. المعالجة الكيميائية للورم البطني
+ب. المعالجة الشعاعية للبطن
+ج. المدرات
+د. البزل المتكرر
+هـ. تحويلة بريتوانية وريدية","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: من العلاجات التلطيفية للحبن الخبيث:
+    
+    Options:
+    أ. المعالجة الكيميائية للورم البطني
+ب. المعالجة الشعاعية للبطن
+ج. المدرات
+د. البزل المتكرر
+    A: 
+    ب: 
+    ج:
+    د: 
+    A: ج
+    B: 
+    C: 
+    D: 
+ 
+A: ج
+B: د
+C: c
+D: a
+ 
+A: ب
+B: ج
+C: a
+D: B
+    A: 
+    B: 
+    C: 
+    D: 
+    A: ب
+    B: a
+    C: 
+    D:
+ 
+A: ب
+B: 
+C: a
+D: 
+    A: 
+    B: 
+    C: 
+    D: 
+    A:
+    B: د
+    C: أ
+    D: 
+ 
+A: 
+B: م
+C: د
+D: ب
+    A: 
+    B: 
+    C: 
+    D: 
+    A: م
+    B: م
+    C: أ
+    D: ب
+    A: 
+    B: 
+    C: d
+    D: d
+    A: 
+    B: 
+    ",د. البزل المتكرر
+4,"أي مما يلي تستبعد إصابته في الجحوظ الورمي:
+أ. العصب البصري
+ب. العصب الثالث
+ج. العصب السادس
+د. العصب العاشر
+ه. كل ما سبق لا يصاب",ب,د. العصب العاشر
+5,"كل ما يلي صحيح عن المساريقا ما عدا:
+أ. طبقة وحيدة من البريتوان
+ب. تؤمن مرور الاعصاب والاوعية للاحشاء
+ج. يتشكل الرباط المنجلي من المساريقا البطنية
+د. يتشكل الثرب الكبير من المساريقا الظهرية للمعدة
+ه. مساريقا الصائم اللفائفي هي مساريقا ظهرانية","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كل ما يلي صحيح عن المساريقا ما عدا:
+    
+    Options:
+    أ. طبقة وحيدة من البريتوان
+ب. تؤمن مرور الاعصاب والاوعية للاحشاء
+ج. يتشكل الرباط المنجلي من المساريقا البطنية
+د. يتشكل الثرب الكبير من المساريقا الظهرية للمعدة
+    A: <b>ب</b>
+    B: <b>أ</b>
+    C: <b>د</b>
+    D: <b>ج</b>
+
+Correct answer is B (مساريقا الظهرية للمعدة)","أ. طبقة وحيدة من البريتوان
+"
+6,"من مكونات الجريبات المبيضية وتفرز ال androstenadione: 
+أ. الخلايا الجريبية 
+ب. الخلايا الحبيبية
+ج. خلايا القراب الداخلي
+د. خلايا القراب الخارجي
+ه. الخلية البيضية الأولية","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: من مكونات الجريبات المبيضية وتفرز ال androstenadione:
+    
+    Options:
+    أ. الخلايا الجريبية 
+ب. الخلايا الحبيبية
+ج. خلايا القراب الداخلي
+د. خلايا القراب الخارجي
+    A: 
+    B:
+    C: 
+    D:
+    E: 
+    
+A: 
+    
+    
+
+    
+    Question:  اليمينا في العصارة الخلالية هي:
+    
+    A:
+    B:
+    C:
+    D:
+    E: 
+
+A: 
+    
+    
+    
+    
+
+    
+    Question: يحد من كمية المبيضيتون:
+    
+    A:
+
+    
+    B:
+    C:
+    D:
+    E:
+
+    Question:
+
+    Question:
+
+
+    A:
+
+
+
+
+    B:
+
+
+
+
+    C:
+
+
+
+
+    D:
+
+
+
+
+    E:
+
+
+
+
+    Explanation:  الأمراض الرئيسية المسببة لمعرض الجريبات وهي:
+
+    أ. الإيروسيسية
+    B. الدنا
+    C. الطاعون الخلقي
+    D. الجينوم الضار
+    E. البكتيريا الزائفة
+
+
+A: 
+
+
+
+    B:
+
+
+    
+A: 
+
+
+
+
+
+    Question: يتألف النمط من الـ 
+    
+    
+    
+    
+    
+A:
+",ج. خلايا القراب الداخل
+7,"الدانترولين يملك تأثير:
+أ. مرخّي للعضلات الملساء
+ب. مرخّي للعضلات الهيكلية
+ج. مثبط للفوسفو داي إستراز
+د. معاكسا لعمل الهيبارين
+هـ. مشابه لتأثير البابا فيرين","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: الدانترولين يملك تأثير:
+    
+    Options:
+    أ. مرخّي للعضلات الملساء
+ب. مرخّي للعضلات الهيكلية
+ج. مثبط للفوسفو داي إستراز
+د. معاكسا لعمل الهيبارين
+    A: 
+
+    
+    B:
+    
+    C:
+    
+    D:
+    Correct Answer: B","ب. مرخّي للعضلات الهيكلية
+"
+8,"يتحرر الأستيل كولين من الأماكن التالية عدا:
+أ. جميع العصبونات قبل العقدة في الجهاز العصبي المستقل
+ب. جميع العصبونات بعد العقدة في القسم اللاودي
+ج. العصبونات بعد العقدة في القسم الودي المعصب للغدد العرقية
+د. العصبونات بعد العقدة في القسم الودي المعصب للغدد اللعابية","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: يتحرر الأستيل كولين من الأماكن التالية عدا:
+    
+    Options:
+    أ. جميع العصبونات قبل العقدة في الجهاز العصبي المستقل
+ب. جميع العصبونات بعد العقدة في القسم اللاودي
+ج. العصبونات بعد العقدة في القسم الودي المعصب للغدد العرقية
+د. العصبونات بعد العقدة في القسم الودي المعصب للغدد اللعابية
+    A: <b>B</b> 
+B: أ
+C: <b>C</b> 
+D: ق",د. العصبونات بعد العقدة في القسم الودي المعصب للغدد اللعابية
+9,"ما يلي حول التهاب الكبد المزمن المرتقي الفعال صحيح ما عدا:
+أ. قد توجد ضخامة كبدية وطحالية
+ب. النمط المنيع للذات أكثر شيوعاً لدى الذكور
+ج. من الأعراض: وهن عام وتعب، مع وجود آلام مفصلية
+د. في الغالب يكون إنذار هذه الحالات سيئا","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: ما يلي حول التهاب الكبد المزمن المرتقي الفعال صحيح ما عدا:
+    
+    Options:
+    أ. قد توجد ضخامة كبدية وطحالية
+ب. النمط المنيع للذات أكثر شيوعاً لدى الذكور
+ج. من الأعراض: وهن عام وتعب، مع وجود آلام مفصلية
+د. في الغالب يكون إنذار هذه الحالات سيئا
+    A: 
+    
+    B: 
+    
+    C: 
+    
+    D: 
+    
+   
+    Answer: 
+","ب. النمط المنيع للذات أكثر شيوعاً لدى الذكور
+"
+10,"كل العوامل التالية تزيد امتصاص الحديد عدا:
+أ. الإريثروبويتين
+ب. انخفاض ph الوسط المعوي
+ج. C الفيتامين
+د. الكالسيتونين","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كل العوامل التالية تزيد امتصاص الحديد عدا:
+    
+    Options:
+    أ. الإريثروبويتين
+ب. انخفاض ph الوسط المعوي
+ج. C الفيتامين
+د. الكالسيتونين
+    A: َA
+    B: خ 
+    C: ج
+    D: إ",د. الكالسيتونين
+11,"التبادل المتبادل بين الكروموسوم 8 و 14 يسبب:
+
+أ. لمفوما مانتيل
+ب. لمفوما بوركت
+ج. لمفوما هودجكن
+د. نقيوم متعدد
+هـ. ابيضاض لمفاوي حاد","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: التبادل المتبادل بين الكروموسوم 8 و 14 يسبب:
+    
+    Options:
+    أ. لمفوما مانتيل
+ب. لمفوما بوركت
+ج. لمفوما هودجكن
+د. نقيوم متعدد
+    A: 
+    A: (B) exchange mutation causes malignant melanoma.
+
+    
+    B: 
+    B: 
+    C: 
+    C: 
+    D: 
+    D: 
+    E: 
+    A: 
+    A: 
+    B: 
+    B: 
+    D: 
+    D: 
+    E:
+    Explanation for solution: 
+A correct explanation is required. 
+B: 
+C: 
+ D: 
+E: The correct combination is (A). 
+    
+    A
+    A
+    B
+    B
+    C
+    C
+    D
+    D
+    E
+    E",ب. لمفوما بوركت
+12,"في حال حدوث خلل اثناء التشكل الجنيني اي من البنى التالية تشكل ناسور مع الرغامى:
+أ. الأبهر 
+ب. ألحجاب الحاجز 
+ج. المري
+د. التامور
+ه. الرغامى",ب,ج. المري
+13,"تتصف العصيدة الشريانية بما يلي عدا: 
+أ. هي تثخن موضعي في طبقة ال Media 
+ب. تكاثر الخلايا العضلية الملساء
+ج. ترسب الكولسترول في ال Macrophages 
+د. الأول والثاني
+","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: تتصف العصيدة الشريانية بما يلي عدا:
+    
+    Options:
+    أ. هي تثخن موضعي في طبقة ال Media 
+ب. تكاثر الخلايا العضلية الملساء
+ج. ترسب الكولسترول في ال Macrophages 
+د. الأول والثاني
+    A: <b>ب</b>
+    B: <b>آ</b>
+    C: <b>ج</b>  
+    D: <b>د</b>
+
+
+
+  Answer:
+
+    
+
+    We know: The name of blood vessel (Aorta) derived from "" <b>orta</b>"" which means heart, this is because it is blood vessel connecting heart to major arteries.
+
+    So, the correct letter is B.
+
+    Option A is correct.  
+
+  <b>26</b>","أ. هي تثخن موضعي في طبقة ال Media 
+"
+14,"يتصف تقلص العضالت الملس بما يلي عدا:
+أ. يقوم الكالمودولين بدور مشابه لعمل الترومبين في العضلات الهيكلية
+ب. يكفي انخفاض ترکيز شوارد الكالسيوم دون المستوى الحرج لحدوث السترخاء العضلي
+ج. يحتوي غشاء العضلة الملساء على انماط متعددة من البروتينات المستقبلة
+د. يستمر ارتباط جسور الميوزين مع خيوط اللاكتين لفترة اطول من مثيالتها في
+العضالت الهيكلة","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: يتصف تقلص العضالت الملس بما يلي عدا:
+    
+    Options:
+    أ. يقوم الكالمودولين بدور مشابه لعمل الترومبين في العضلات الهيكلية
+ب. يكفي انخفاض ترکيز شوارد الكالسيوم دون المستوى الحرج لحدوث السترخاء العضلي
+ج. يحتوي غشاء العضلة الملساء على انماط متعددة من البروتينات المستقبلة
+د. يستمر ارتباط جسور الميوزين مع خيوط اللاكتين لفترة اطول من مثيالتها في
+    A: 
+A: It  
+B: It  
+C: It 
+D: It  
+E: It  
+F: It 
+G: It  
+H: It  
+J: It  
+K: It  
+G: It  
+H: It  
+I:It  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+","ب. يكفي انخفاض ترکيز شوارد الكالسيوم دون المستوى الحرج لحدوث السترخاء العضلي
+"
+15," اشر الاحتمال المقبول:
+أ. ان التحام الابهرين الظهريين يستمر حتى الشهرالخامس 
+ب. تعطي قوس الابهر الثالثة جزء من السباتي الأصلي
+ج. يعطي كيس الأبهر كامل الجذع العضدي الرأسي
+د. تشكل كل قوس الاهرية قناه شريانية مؤقتة 
+","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: اشر الاحتمال المقبول:
+    
+    Options:
+    أ. ان التحام الابهرين الظهريين يستمر حتى الشهرالخامس 
+ب. تعطي قوس الابهر الثالثة جزء من السباتي الأصلي
+ج. يعطي كيس الأبهر كامل الجذع العضدي الرأسي
+د. تشكل كل قوس الاهرية قناه شريانية مؤقتة 
+    A: <b> b</b>    B    C    D
+   
+     <strong>A.</strong> <b>a</b>     B     C        D
+
+     <strong>A.</strong> b        C      D
+
+     <strong>A.</strong> C
+
+     <strong>B.</strong> D
+ ","ب. تعطي قوس الابهر الثالثة جزء من السباتي الأصلي
+"
+16,"في تطور القلب:
+أ. مصير القرن الأيسر للجيب الوريدي هو الجيب الإكليلي
+ب. يتم انغلاق الفوهة الأولية بين الأذينتان بعد الولادة مباشرة
+ج. معظم الحواجز القلبية تتشكل بين الأيام 16 حتى 27
+د. كل ما سبق صحيح
+ه. كل ما سبق خط","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: في تطور القلب:
+    
+    Options:
+    أ. مصير القرن الأيسر للجيب الوريدي هو الجيب الإكليلي
+ب. يتم انغلاق الفوهة الأولية بين الأذينتان بعد الولادة مباشرة
+ج. معظم الحواجز القلبية تتشكل بين الأيام 16 حتى 27
+د. كل ما سبق صحيح
+    A: 
+    B: 
+    C: 
+    D: 
+Question: If a woman who is in pregnancy suffers from the following condition, what is the mechanism (s) of the defect: Incompetent cervix?
+    أ. 
+    B. 
+    C. 
+    D. 
+Question: When you listen to the heartbeat of a fetus in utero, you will hear the following sounds:
+    أ. 
+    B. 
+    C. 
+    D. 
+    E. 
+    F. 
+    G. 
+    H. 
+                                  
+    A. 
+    B. 
+    C. 
+    D. 
+Question: With the following statement, choose the correct statement:
+    A. When the left horn of the heart is defective, the left ventricle receives more oxygen.
+    B. A ventricular septal defect (VSD) is a defect of the interventricular septum between the left and right ventricle and is associated with mitral stenosis.
+    C. When a fetus suffers from incompetent cervix, the amniotic sac is always ruptured.
+    D. If two major valvular defects occur in the same fetus","أ. مصير القرن الأيسر للجيب الوريدي هو الجيب الإكليلي
+"
+17,"في الربو القصبي كل ما يلي صحيح ما عدا:
+
+أ. هجمات متقطعة من الزلة التنفسية.  
+ب. مع أو بدون وزيز.  
+ج. فرط ارتكاس قصبي.  
+د. تنزل الهجمة تلقائيًا أو بالمعالجة.  
+هـ. السعال موجود دائمًا.","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: في الربو القصبي كل ما يلي صحيح ما عدا:
+    
+    Options:
+    أ. هجمات متقطعة من الزلة التنفسية.  
+ب. مع أو بدون وزيز.  
+ج. فرط ارتكاس قصبي.  
+د. تنزل الهجمة تلقائيًا أو بالمعالجة.  
+    A: 
+    
+    الحل: 
+<b>ب- مع أو بدون وزيز.</b>
+
+    
+    Explanation: 
+
+    The inspiration of the air enters the lungs through the air passage.
+    The air-flow is continuous through the alveoli by the air pressure.
+    The wind-pipe passes through the tongue, the soft palate, the hard palate, and the mouth.
+    The wind-pipe has the shape of a hollow tube with a muscular layer which opens and is closes  
+    during breathing with the aid from the intercostal nerves, the muscles and in a large number of children during infancy.
+    In the inspiration, the diaphragm relaxes and contracts in a way of moving the mediastinum laterally to increase the volume of the thoracic cavity, so that the volume of the lungs increases.
+    Then the intra-pulmonary pressure decreases and the air enters the lungs through the openings of the alveoli.
+    Then the diaphragm muscles work to close the trachea and the muscles to open the alveoli.
+    So, the intercostal muscles cannot contribute in the inspiration.
+    
+
+
+
+    
+    تم ذكر هذه الإجابة  درجات الإجابه: 1 1 0
+    
+    الإجابة:",هـ. السعال موجود دائمًا
+18,"في الاصابة بداء وحيدات النوى الخمجي كل ما يلي صحيح عدا: 
+ا. يعتبر فيروس ايبشتايف بار EBV عامال"" محرضا"" لممفوما بوركيت في افريقي
+ب. أكثر خطورة عند المصاب بفقر دـ بنقص الحديد
+ج.  تمزؽ الطحاؿ ىو االختالط االكثر خطور
+د. قد تؤدي الضخامة الشديدة في الموزتيف والعقد البمغمية المرافقة الى عسرة تنفسية شديدة
+ه. الطفح ليس مف المظاىر النموذجية","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: في الاصابة بداء وحيدات النوى الخمجي كل ما يلي صحيح عدا: 
+ا. يعتبر فيروس ايبشتايف بار EBV عامال"" محرضا"" لممفوما بوركيت في افريقي
+    
+    Options:
+    ب. أكثر خطورة عند المصاب بفقر دـ بنقص الحديد
+ج.  تمزؽ الطحاؿ ىو االختالط االكثر خطور
+د. قد تؤدي الضخامة الشديدة في الموزتيف والعقد البمغمية المرافقة الى عسرة تنفسية شديدة
+    A: 
+    B: 
+    C: 
+    d: 
+Answer: 
+    
+    
+    
+    
+    
+A: D
+B: C
+C: B
+D: A",ب. أكثر خطورة عند المصاب بفقر دـ بنقص الحديد
+19,"يختلف كامن فعل الليف العضلي القلبي عن كامن فعل الليف العقدي القلبي بما يلي عدا:
+أ. القيمة السلبية القصوى التي يصل إليها كامن الغشاء
+ب. قنوات الصوديوم السريعة المسؤولة عن زوال الاستقطاب
+ج. المدة الزمنية لكامن الفعل
+د. طور الستقرار","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: يختلف كامن فعل الليف العضلي القلبي عن كامن فعل الليف العقدي القلبي بما يلي عدا:
+    
+    Options:
+    أ. القيمة السلبية القصوى التي يصل إليها كامن الغشاء
+ب. قنوات الصوديوم السريعة المسؤولة عن زوال الاستقطاب
+ج. المدة الزمنية لكامن الفعل
+د. طور الستقرار
+    A: 
+A
+B: 
+B
+C: 
+C
+D: 
+D
+E: 
+E",ب. قنوات الصوديوم السريعة المسؤولة عن زوال الاستقطاب
+20," اختر الاجابة الصحيحة:
+أ. هرمون جارات الدرق يؤدي إلى زيادة الكالسيوم في الدم
+ب. تملك حاطمات العظم مستقبلات لهرمون جارات الدرق على سطحها
+ج. الكالسيتونين يزيد عملية التعظم عن طريق تثبيط نشاط حاطمات العظم
+د. A+C
+ه. كل ما سبق خطأ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: اختر الاجابة الصحيحة:
+    
+    Options:
+    أ. هرمون جارات الدرق يؤدي إلى زيادة الكالسيوم في الدم
+ب. تملك حاطمات العظم مستقبلات لهرمون جارات الدرق على سطحها
+ج. الكالسيتونين يزيد عملية التعظم عن طريق تثبيط نشاط حاطمات العظم
+د. A+C
+    A: 1
+    B: 2
+    C: 3
+    D: 4
+    E: 5
+
+    
+    A: B","د. A+C
+"
+21,"مادة السورفاكتانت تنتج من:
+أ. الخلايا السنخية نمط 1
+ب. الخلايا السنخية نمط 2
+ج. الشعيرات الدموية 
+د. الاوعية اللمفية
+ه. القصبات الثانوية
+","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: مادة السورفاكتانت تنتج من:
+    
+    Options:
+    أ. الخلايا السنخية نمط 1
+ب. الخلايا السنخية نمط 2
+ج. الشعيرات الدموية 
+د. الاوعية اللمفية
+    A: <b>B</b>
+    B: <b>د</b>
+    C: <b>ج</b>
+    D: <b>أ</b>
+    E: <b>ب</b>","ب. الخلايا السنخية نمط 2
+"
+22,"في النفث الدموي الحاد كل ما يلي صحيح ما عدا:
+
+أ. لون الدم أسود  
+ب. الـ PH قلوية  
+ج. مصدره تحت الحبال الصوتية  
+د. يترافق مع السعال  
+هـ. يشاهد بالسل الكهفي  ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: في النفث الدموي الحاد كل ما يلي صحيح ما عدا:
+    
+    Options:
+    أ. لون الدم أسود  
+ب. الـ PH قلوية  
+ج. مصدره تحت الحبال الصوتية  
+د. يترافق مع السعال  
+    A: 3 د.  
+    B: 4 ج.  
+    C: 5 د.  
+    D: 5 ج.  
+    E: 5 د.  
+    F: 5 د.  
+    G: 5 ج.  
+    H: 5 د.  
+    I: 5 ج.  
+    J: 5 د.  
+    K: 5 ج.  
+    L: 5 د.  
+    M: 5 ج.
+",أ. لون الدم أسود
+23,"من الأدوية التي تزيد من صنع الغلوبيولين الرابط للتريوكسين:
+أ. انسولين
+ب. أسبرين
+ج. بيرفينازون
+د. كل ما سبق صحيح","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: من الأدوية التي تزيد من صنع الغلوبيولين الرابط للتريوكسين:
+    
+    Options:
+    أ. انسولين
+ب. أسبرين
+ج. بيرفينازون
+د. كل ما سبق صحيح
+    A: 
+в choices: A, B, C
+    B: 
+в choices: A, B, D
+    C: 
+в choices: B, C, D
+    D: 
+في جميع الحالات ، أختار 1 فقط.",ج. بيرفينازون
+24,"هذا الجزء من الكظر تشتق خلاياه من العرف العصبي انه:
+أ. الطبقة الحبيبية
+ب. الطبقة الحزمية
+ج. الطبقة الشبكية
+د. لب الكظر
+ه. محفظة الكظر ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: هذا الجزء من الكظر تشتق خلاياه من العرف العصبي انه:
+    
+    Options:
+    أ. الطبقة الحبيبية
+ب. الطبقة الحزمية
+ج. الطبقة الشبكية
+د. لب الكظر
+    A: 
+    B: 
+    C: 
+    D:
+
+    
+    Answer:  ج
+
+
+
+
+
+البرنامج المتطور من <b>الاختبارين الحائزين على المركز</b> الذي تم اختياره لك من أجل التحضير الميداني لمتطلبات الحج و الاستعداد للجهاد,
+
+- يتم تخصيص هذا البرنامج للمهاجرين من المسلمين في دولة الأردن والعراق الذين تم تعيينهم أو مقرهم جديما في مدينة البقيعة أو عفرين من أجل المشاركة في اختبارات الحجة (جهاد العزم) وتطوير المهام المتبعة في تلك الحالة.
+
+- يتم إرسال تلك الأصدقاء إلى <b>المدينة (بقيعة) </b>من أجل تقديم المجهود الصالح لجهاد العزم والتعاون مع كل مقر في مدينة البقيعة.
+
+- سوف يقوم البرنامج بنفيهم أو غير ذلك حسب ما يتواجد فيه من استعداد لهم و استعداد العزّاد في جميع أنحاء العالم وفقا للاتفاقات التي تم التفاوض عليها من قبل كل مقر وحيئتهم.
+
+- يقتصر التنفيذ على الأصدقاء والمقربين من الأسر و","د. لب الكظر
+"
+25,"في مراحل نضج الرئتين تتشكل الاسناخ الاولية خلال:
+أ. الفترة الغدية الكاذبة
+ب. الفترة القنوية
+ج. فترة الكيس الانتهائي
+د. الفترة السنخية 
+ه. خلال الثلثين الاخيرين للحمل","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: في مراحل نضج الرئتين تتشكل الاسناخ الاولية خلال:
+    
+    Options:
+    أ. الفترة الغدية الكاذبة
+ب. الفترة القنوية
+ج. فترة الكيس الانتهائي
+د. الفترة السنخية 
+    A: 16:10
+
+    B. 10:00
+    C. 10:10
+    D. 6.5","ج. فترة الكيس الانتهائي
+"
+26," كل ما يلي من الملحقات الجلدية ما عدا:
+أ. الغدد المصلية الخارجية
+ب. الأشعار
+ج. الغدد المصلية العرقية
+د. الغدد الدهنية",د,"أ. الغدد المصلية الخارجية
+"
+27," كل مما يلي حول التهاب الكبد الخاطف صحيح ما عدا:
+أ. يحدث غالباً خلال 8 أسابيع من الإصابة بالتهاب الكبد الحاد
+ب. أهم الملامح السريرية هو دخول المريض في اعتلال دماغي
+ج. احتمال البقاء على قيد الحياة عند حدوث السبات أقل من %20
+د. يحدث عادة قصور قلبي مرافق لتخرب الخلايا الكبدية ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كل مما يلي حول التهاب الكبد الخاطف صحيح ما عدا:
+    
+    Options:
+    أ. يحدث غالباً خلال 8 أسابيع من الإصابة بالتهاب الكبد الحاد
+ب. أهم الملامح السريرية هو دخول المريض في اعتلال دماغي
+ج. احتمال البقاء على قيد الحياة عند حدوث السبات أقل من %20
+د. يحدث عادة قصور قلبي مرافق لتخرب الخلايا الكبدية 
+    A: 
+
+    
+    A : b - d
+    B: - d
+    C: a-b -d
+    D: a-c -d
+    E: -c -d
+
+    
+    الترسل من:
+    A:
+    B:
+    C:
+    D:
+
+
+تغيير في التركيب الخلوي يحدث في:     
+
+
+* Choose the correct answer from the following:
+  11 points
+
+
+* A: The most basic form of cancer
+  B : It is not contagious
+  C: A tumour or abnormal tissue growth that can spread to other areas of the body
+  D: The most common form of cancer
+  E: All the above",د. يحدث عادة قصور قلبي مرافق لتخرب الخلايا الكبدية 
+28,"كل ما يلي صحيح عن التسمم الوشيقي:
+أ. يصيب االنسان والحيوان
+ب. يترافق مع ارتفاع حرارة مع بقاء المريض تام الوعي
+ج. يترافق مع ازدواج رؤية
+د. يترافق مع دوخة وعسر بلع
+ه. تظهر اعراضه بعد 5 ساعات من تناول الطعام المسمم","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كل ما يلي صحيح عن التسمم الوشيقي:
+    
+    Options:
+    أ. يصيب االنسان والحيوان
+ب. يترافق مع ارتفاع حرارة مع بقاء المريض تام الوعي
+ج. يترافق مع ازدواج رؤية
+د. يترافق مع دوخة وعسر بلع
+    A: 
+A-C-D
+B: 
+A-D
+C: 
+B-C-D
+D: 
+B-C-A-D",ب. يترافق مع ارتفاع حرارة مع بقاء المريض تام الوعي
+29,"ما هي العيارات الصحيحة حول الوسيط نيتريك أوكسيد؟
+أ. مثبطات الأنزيم المصنع تشمل المركبات (LNMMA) و (LNAME).
+ب. منشطات الأنزيم المصنع تشمل نيتروغليسيرن و إيزوسوربيد.
+ج. منشطات الأنزيم المصنع تشمل إيزوسوربيد داي تنرات و صوديوم نتروبروسيد.
+د. مثبطات الأنزيم المصنع تشمل أحماض الهيموغلوبين وارتفاع الضغط الشرياني","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: ما هي العيارات الصحيحة حول الوسيط نيتريك أوكسيد؟
+    
+    Options:
+    أ. مثبطات الأنزيم المصنع تشمل المركبات (LNMMA) و (LNAME).
+ب. منشطات الأنزيم المصنع تشمل نيتروغليسيرن و إيزوسوربيد.
+ج. منشطات الأنزيم المصنع تشمل إيزوسوربيد داي تنرات و صوديوم نتروبروسيد.
+د. مثبطات الأنزيم المصنع تشمل أحماض الهيموغلوبين وارتفاع الضغط الشرياني
+    A: <b>A</b>
+B: <b>B</b>
+C: <b>D</b>
+D: <b>A</b>
+E: <b>B</b>",ب. منشطات الأنزيم المصنع تشمل نيتروغليسيرن و إيزوسوربيد
+30," واحدة من العبارات التالية فيما يخص دور المهاد خاطئة:
+أ. تمر جميع المسالك الحسية في أثناء سيرها نحو القشرة المخية الحديثة بالمهاد 
+ب. للمهاد دور في الإدراك الفج للأحاسيس
+ج. يمكن لحس الألم ان يدرك كليا في المهاد
+د. المهاد مكان وجود عصبونات المرتبة الثالثة لجميع الأحاسيس","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: واحدة من العبارات التالية فيما يخص دور المهاد خاطئة:
+    
+    Options:
+    أ. تمر جميع المسالك الحسية في أثناء سيرها نحو القشرة المخية الحديثة بالمهاد 
+ب. للمهاد دور في الإدراك الفج للأحاسيس
+ج. يمكن لحس الألم ان يدرك كليا في المهاد
+د. المهاد مكان وجود عصبونات المرتبة الثالثة لجميع الأحاسيس
+    A: <strong>B</strong>
+    B: <strong>C</strong>
+    C: <strong>A</strong>
+    D: <strong>B</strong>
+","أ. تمر جميع المسالك الحسية في أثناء سيرها نحو القشرة المخية الحديثة بالمهاد 
+"
+31,"يشاهد التهاب البلغم مع توضع أغشية عليه وعلى اللوزتين في الإصابة بالأمراض التالية عدا:
+
+ا. التهاب الحنجرة الرشحة الغدية (الإيبينوفيورس)  
+ب. دفتريا البلغم  
+ج. داء وحدات النوى الحمضي  
+د. التهاب البلغم واللوزات بالعقديات  
+هـ. التهاب البلغم واللوزات العقولي","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: يشاهد التهاب البلغم مع توضع أغشية عليه وعلى اللوزتين في الإصابة بالأمراض التالية عدا:
+
+ا. التهاب الحنجرة الرشحة الغدية (الإيبينوفيورس)
+    
+    Options:
+    ب. دفتريا البلغم  
+ج. داء وحدات النوى الحمضي  
+د. التهاب البلغم واللوزات بالعقديات  
+    A: <u> ب </u>
+    B: أ
+    C: ج
+    D: د
+
+    
+
+    <strong>The answer is B, it is the correct question.</strong>
+    What does the disease called a “black patch”?
+    The answer is <u>black plaque</u>.",ا. التهاب الحنجرة الرشحة الغدية (الإيبينوفيورس)  
+32," من طرق الوقاية من الجمرة الخبيثة:
+أ. تجنب اكل اللحم النيء وغير المطبوخ جيدا
+ب. حرق جثة الحيوان المصاب
+ج. تلقيح الحيوان
+د. كل ما سبق صحيح
+ه. كل ما سبق خاطئ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: من طرق الوقاية من الجمرة الخبيثة:
+    
+    Options:
+    أ. تجنب اكل اللحم النيء وغير المطبوخ جيدا
+ب. حرق جثة الحيوان المصاب
+ج. تلقيح الحيوان
+د. كل ما سبق صحيح
+    A: <b>c</b>
+    
+    Question: لماذا يزودنا النحل بسكر:
+    
+    Options:
+    أ- للبقاء على قيد الحياة لفترة طويلة
+ب- للسيطرة على حشرات الصيف
+ج- لاستطاعة حمي جثث الحيوانات المصابة بالجمرة الخبيثة
+د- اجبار الحشرات على أن تتغذى
+    A: <b>د</b>
+
+    
+    Question:  في تفاعل كربوهيدرات مع حامض غير كربوهيدري:
+
+    اذا كان التفاعل بين كربوهيدرتين ينجران في وسط عضوي يحتوي الجلوكوز والسولفات، فما القاعدة الحمضية التي تمنع حدوث التفاعل؟:
+
+    A: <b>ج</b>
+    
+    Question:  أعلى نطاق لأي كمية من الجلوتاثيون، فإنه يهاجم العقد التناسلي:
+
+    أ- الهيكل الابيض التناسلي
+ب- الهيكل المحوم التناسلي
+ج- الهيكل العسيلي
+د- كل ما سبق صحيح
+    A: <b>ب</b>",د. كل ما سبق صحيح
+33,"سرطان البروستات:  
+أ. توضعه محيطي  
+ب. توضعه مركزي  
+ج. أعراضه باكرة  
+د. لا يعطي نقائل  
+هـ. كل ما سبق خطأ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: سرطان البروستات:
+    
+    Options:
+    أ. توضعه محيطي  
+ب. توضعه مركزي  
+ج. أعراضه باكرة  
+د. لا يعطي نقائل  
+    A: <strong>الترجيعي</strong>
+    B: <strong>الحسيبي</strong>
+    C: <strong>الدوراني</strong>
+    D: <strong>التهابي</strong>
+    E: <strong>العصبي </strong>    
+
+<strong>التحليل:</strong>
+يتم التعرف على سرطان البروستات بوجود نمو غير عادي للبروتستات (النسيج البيضاوي الذي يصنع سائل الدرر) في منطقة البروستات على طول الوريد أو قناة المائة الباطن.",أ. توضعه محيطي
+34,"المريطاء هي البقايا الجنينية ل: 
+أ. السقاء
+ب. القناة المحية المعوية
+ج. قناة مولر
+د. الحبال الجنسية البدئية
+ه. الغدة التناسلية المحايدة  ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: المريطاء هي البقايا الجنينية ل:
+    
+    Options:
+    أ. السقاء
+ب. القناة المحية المعوية
+ج. قناة مولر
+د. الحبال الجنسية البدئية
+    A: 
+B: 
+C: 
+D:","أ. السقاء
+"
+35,"مريض عمره 60 سنة كان يعمل بمنجم للفحم لمدة 20 سنة، راجع بسعال وزلة تنفسية، صورة الصدر أظهرت ارتشاحات خلالية، فحص القشع كان إيجابيًا لعصية كوخ، أي من العوامل الآتية قد يكون عاملًا مؤهبًا لإصابته بالتدرن:
+
+أ. بيريليوم  
+ب. كادميوم  
+ج. الفحم  
+د. السيليكا  
+هـ. غبار المنزل  ",ب,د. السيليكا
+36,"ارتفاع التوتر الشرياني الحملي Gestational Hypertension:
+أ. يحدث فيه التوتر الشرياني قبل الأسبوع ال20 من الحمل
+ب. يترافق مع بيلة بروتينية
+ج. يتراجع بعد 3 اسابيع من الولادة
+د. هو تطور بيلة بروتينية عند سيدة لديها ارتفاع توتر شرياني مزمن
+ه. كل ما سبق خطأ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: ارتفاع التوتر الشرياني الحملي Gestational Hypertension:
+    
+    Options:
+    أ. يحدث فيه التوتر الشرياني قبل الأسبوع ال20 من الحمل
+ب. يترافق مع بيلة بروتينية
+ج. يتراجع بعد 3 اسابيع من الولادة
+د. هو تطور بيلة بروتينية عند سيدة لديها ارتفاع توتر شرياني مزمن
+    A: 4-d
+
+    
+    
+    
+    ב: 7-g
+    
+    
+    ג: 3-c
+    
+   
+   
+   
+   Question: which is correct answer?
+    A: Increasing urine volume
+    B: Decrease Urine volume
+    C: Increase water in the diet to 2 x 400 mg salt.
+    D: Sodium Restriction
+    
+    
+    E: Fluid Restriction
+    
+    A: 2-d
+    B : 3-b
+    C: 1-c
+    D: 4-a
+    E: 5-f
+    
+    Question: Which of the following is not a risk factor for
+    A: Gestational hypertension
+    B. Pre - eclampsia
+    C: End-stage renal disease
+    D: Diabetic nephropathy
+    E: Preeclampsia/ eclampsia
+    A: 5-d","ب. يترافق مع بيلة بروتينية
+"
+37,"المركب المستخدم في تدريب الاكتئاب والوسواس القهري هو:
+أ. فنلزين
+ب. الديكومارول
+ج. تولبوتاميد
+د. كاربامازيين
+ه. فلوكسيتين","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: المركب المستخدم في تدريب الاكتئاب والوسواس القهري هو:
+    
+    Options:
+    أ. فنلزين
+ب. الديكومارول
+ج. تولبوتاميد
+د. كاربامازيين
+    A: 
+B: 
+C: 
+D:",ه. فلوكسيتين
+38,"اختر الاجابة الخاطئة عن البوريليا:
+أ. سبب داء اليم الذي ينتقل عبر الجهاز التنفسي
+ب. جراثيم لولبية متحركة تتلون بسهولة بصبغة غيمزا
+ج. تكون ذات لفات غير منتظمة والمسافة بين كل لفتين من 2 ل4 مكرون
+د. تسبب الحمى الراجعة التي تنتقل عبر القمل
+ه. تكون سبب خناق فنسان","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: اختر الاجابة الخاطئة عن البوريليا:
+    
+    Options:
+    أ. سبب داء اليم الذي ينتقل عبر الجهاز التنفسي
+ب. جراثيم لولبية متحركة تتلون بسهولة بصبغة غيمزا
+ج. تكون ذات لفات غير منتظمة والمسافة بين كل لفتين من 2 ل4 مكرون
+د. تسبب الحمى الراجعة التي تنتقل عبر القمل
+    A: 1 - B","أ. سبب داء اليم الذي ينتقل عبر الجهاز التنفسي
+"
+39,"في متلازمة WAGER نجد كل ما يلي ما عدا:
+أ. غياب القرنية
+ب. اختلاف عقلي
+ج. شحمة أذن مشطورة
+د. تشوه السبيل البولي
+هـ. كل ما سبق صحيح","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: في متلازمة WAGER نجد كل ما يلي ما عدا:
+    
+    Options:
+    أ. غياب القرنية
+ب. اختلاف عقلي
+ج. شحمة أذن مشطورة
+د. تشوه السبيل البولي
+    A: 
+    Answer: D (الدون)
+1. For an adult with no prior eye or ear opacities, the average visual acuity and hearing threshold is what?
+    A. 20/10-20/10 and 1/1-1/10
+B. 20/20-20/20 and 50/100-50/50
+C. 20/100-20/200 and 50/50-50/500
+    D. 20/12=20/8 and 1/2-1/12
+    A: 
+    Answer: C (الحدود)
+2. The minimum field deviation when using the minimum eye movement occurs 
+    A. when the target is in the middle of the field.
+B. when it is positioned within 20 degrees from the center of the field of view.
+C. when the center of the target is in the point of the maximum binocular acuity.
+D. when the target is positioned at the point of gaze.
+    A: 
+    Answer: B (",ج. شحمة أذن مشطورة
+40,"قد يحدث التثدي لدى الذكر المصاب بـ:
+أ. المراحل النهائية لسرطان البروستات
+ب. المراحل النهائية لقصور الكلية
+ج. المراحل النهائية للداء السكري
+د. كل ما سبق خطأ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: قد يحدث التثدي لدى الذكر المصاب بـ:
+    
+    Options:
+    أ. المراحل النهائية لسرطان البروستات
+ب. المراحل النهائية لقصور الكلية
+ج. المراحل النهائية للداء السكري
+د. كل ما سبق خطأ
+    A: <b>c</b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+<b>
+
+    
+</b></b>
+</b></b>
+</b></b>
+</b></b>
+</b></b>
+</b></b>
+</b></b>
+</b></b>
+</b></b>
+</b></b>
+</b></b>
+</b></b>
+
+
+
+(I hope the answer will be helpful for you) </strong>",د. كل ما سبق خطأ
+41,"كل ما يلي صحيح عن اسواط الجراثيم ماعدا: 
+أ. يكون السوط اطول من الخلية الجرثومية
+ب. بعض الجراثيم لها سوط واحد وبعضها متعدد الاسواط
+ج. تحوي مستضدات من النمط K
+د. كل المكورات لها سياط
+ه. تفيد السياط في التمييز بين السلمونيلا والشيغيلا","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كل ما يلي صحيح عن اسواط الجراثيم ماعدا:
+    
+    Options:
+    أ. يكون السوط اطول من الخلية الجرثومية
+ب. بعض الجراثيم لها سوط واحد وبعضها متعدد الاسواط
+ج. تحوي مستضدات من النمط K
+د. كل المكورات لها سياط
+    A: ءA    B: بT    C: جيR    D: أD    E: بT","ج. تحوي مستضدات من النمط K
+"
+42,"يؤدي تفعيل المكون الودي للجهاز العصبي المستقل إلى ما يلي عدا:
+أ. ارتفاع الضغط الشرياني
+ب. نقص جريان الدم نحو العضالت الهيكلية
+ج. توسع حدقتي العينين
+د. تفعيل التشكيل الشبكي الصاعد","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: يؤدي تفعيل المكون الودي للجهاز العصبي المستقل إلى ما يلي عدا:
+    
+    Options:
+    أ. ارتفاع الضغط الشرياني
+ب. نقص جريان الدم نحو العضالت الهيكلية
+ج. توسع حدقتي العينين
+د. تفعيل التشكيل الشبكي الصاعد
+    A: 
+<strong>الرسالة: ب</strong>
+    B:
+<strong>الثقيل: ج</strong>
+    C: 
+ <strong>الرسالة: ج</strong>
+
+    
+    D: 
+<strong>الرسالة:د</strong>
+    E: 
+ <strong>الرسالة: أ</strong>
+    
+    F: 
+ <strong>الرسالة: د</strong>
+    
+    G:
+ <strong>الرسالة: ب</strong>","ب. نقص جريان الدم نحو العضالت الهيكلية
+"
+43,"تمنع الهرمونات التالية تقويض البروتينات في الجسم عدا:
+أ.الكورتيزول
+ب. هرمونات الدرق T3 و T4 
+ج. هرمون النمو
+د. التستوستيرون",ب,"أ.الكورتيزول
+"
+44,"ما يلي حول التهاب الكبد الفريوسي B صحيح ما عدا:
+ا. في المرحلة الحادة تظهر مستضدات (Ag HBs)
+ب. في المرحلة المزمنة تظهر مستضدات (Ag HBe)
+ج. جيب معايرة ALT كل 15 يوم طوال فترة ظهور الريقان
+د. تعود قيم البيلريوبين إلى المستوى السوي خلال 3-1 أشهر","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: ما يلي حول التهاب الكبد الفريوسي B صحيح ما عدا:
+ا. في المرحلة الحادة تظهر مستضدات (Ag HBs)
+    
+    Options:
+    ب. في المرحلة المزمنة تظهر مستضدات (Ag HBe)
+ج. جيب معايرة ALT كل 15 يوم طوال فترة ظهور الريقان
+د. تعود قيم البيلريوبين إلى المستوى السوي خلال 3-1 أشهر
+    A: 
+    B: 
+    C: 
+    D: 
+    E: 
+    Question:
+لا يوجد غياب مستضدات Ag HBs و Ag HBe. الارتفاع في مستضدات ALT يعتبر من المزمنة 
+
+
+    Question: الارتفاع في مستضدات ALT يعتبر من التهابات الكبد في حالة:
+    A: التهاب الكبد الجلدي بدمخ ميكروسيماس
+    B: التهاب الكبد الفريوسي
+
+A: 
+B: 
+    A: 
+    B: 
+A: 
+B: 
+    A: 
+B: 
+    A: 
+B: 
+    A: 
+B: 
+    A: 
+B: 
+    A: 
+B:","ب. في المرحلة المزمنة تظهر مستضدات (Ag HBe)
+"
+45,"تنشأ ظهارة المبطنة للمثانة البولية:
+أ. اديم المتوسط الصفيحي الجانبي
+ب. الاديم الباطن 
+ج. الاديم المتوسط المجاور للمحور
+د. الاديم المتوسط الوسطاني 
+","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: تنشأ ظهارة المبطنة للمثانة البولية:
+    
+    Options:
+    أ. اديم المتوسط الصفيحي الجانبي
+ب. الاديم الباطن 
+ج. الاديم المتوسط المجاور للمحور
+د. الاديم المتوسط الوسطاني 
+    A: 1 
+B: 2 
+C: 3 
+D: 4 
+
+    
+    Answer C: 4",ب. الاديم الباطن
+46,"من الإجرائات التي يجب اتخاذها في تدبير مريضة الارتجاع الحملي:
+أ. إعطاء ناهيات المخاض
+ب. إعطاء الديكساميتازون
+ج. إعطاء الصادات
+د. بزل السائل السلوي لنفي التشوهات الجنينية
+ه. إنهاء الحمل","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: من الإجرائات التي يجب اتخاذها في تدبير مريضة الارتجاع الحملي:
+    
+    Options:
+    أ. إعطاء ناهيات المخاض
+ب. إعطاء الديكساميتازون
+ج. إعطاء الصادات
+د. بزل السائل السلوي لنفي التشوهات الجنينية
+    A: </td> <td>إجابة </td> <td><strong>A: </strong>
+
+    أ. 
+</td> <td>جواب </td> <td>  تحتاج إلى </td> <td>حاجية </td> <td>    </td> <td>  قابل </td> <td>غير قادر </td></tr> </tbody></table>
+<h3>مثال 2</h3>
+
+A patient's chest x-ray shows multiple pulmonary emboli. You should immediately start treatment for pulmonary embolism:
+The pulmonary embolism should be treated by:
+A. Ambulating patient out of bed
+B. Giving the oxygen through face mask
+C. Giving subcutaneous subcutaneous infusion of heparin
+D. Giving the systemic intravenous infusion of heparin
+E. Giving the systemic intravenous of insulin
+The correct answers:
+
+
+<h3>مثال 3</h3>
+
+The patients had a CXR and are suffering severe pulmonary emboli:
+1- Give them oxygen then heparin.
+2- Give them oxygen then warfarin.
+3- Give them anticoagulant then oxygen.
+4- Give them anticoagulant then heparin.
+5- Give them oral heparin and digoxin.
+Which answer is correct.
+The correct answers:
+أ. 
+
+    
+</td> <td>إجابة </td> <td><strong>A",ه. إنهاء الحمل
+47,"وجد التفاغرات الشريانية الوريدية بغزارة في:
+أ. أصابع اليدين والقدمين
+ب. الأنف والأذن 
+ج. الشفتين
+د. كل ما سبق صحيح ",ب,د. كل ما سبق صحيح 
+48,"تؤدي العوامل التالية إلى نقص خروج السوائل من الشعيرات عدا:
+أ. ارتفاع الضغط التناضحي الغرواني لبالزما الدم
+ب. انخفاض الضغط التناضحي الغرواني لبالزما السائل الخلالي
+ج. انخفاض ضغط السائل الخلالي
+د. انخفاض ضغط الدم في الوعاء الشعيري","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: تؤدي العوامل التالية إلى نقص خروج السوائل من الشعيرات عدا:
+    
+    Options:
+    أ. ارتفاع الضغط التناضحي الغرواني لبالزما الدم
+ب. انخفاض الضغط التناضحي الغرواني لبالزما السائل الخلالي
+ج. انخفاض ضغط السائل الخلالي
+د. انخفاض ضغط الدم في الوعاء الشعيري
+    A: 
+الولب: (A) ، (D)
+    B: 
+الولب: (B) ، (D)
+    C: 
+تحت: (B) ، (C)
+    D: 
+الولب: (B)
+    E: 
+تحت: (A)
+    Answer: (B)
+        Explanation: 
+أختار إجابة C
+أين يحدث الغليان؟
+
+    
+    Question: تؤدي العوامل التالية إلى نقص خروج السوائل من الشعيرات عدا:
+    
+    Options:
+    أ. ارتفاع الضغط التناضحي الغرواني لبالزما الدم
+ب. انخفاض الضغط التناضحي الغرواني لبالزما السائل الخلالي
+ج. انخفاض ضغط السائل الخلالي
+د. انخفاض ضغط الدم في الوعاء الشعيري
+    A: 
+الولب: (A) ، (D)
+    B: 
+الولب: (B) ، (D)
+    C: 
+الولب: (C) ، (B)
+    D: 
+","ج. انخفاض ضغط السائل الخلالي
+"
+49,"كل ما هو آت خاطئ في البنكرياس ما عدا:
+أ. عدم احتوائه على الأقنية المخططة
+ب. إفراز الهرمونات المنظمة للنمو
+ج. غدة انبوبية مركبة
+د. تصنيع الأنزيمات الهاضمة في جزر لانغرهانس","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كل ما هو آت خاطئ في البنكرياس ما عدا:
+    
+    Options:
+    أ. عدم احتوائه على الأقنية المخططة
+ب. إفراز الهرمونات المنظمة للنمو
+ج. غدة انبوبية مركبة
+د. تصنيع الأنزيمات الهاضمة في جزر لانغرهانس
+    A: 
+    B: 
+    C: 
+    D: 
+    Answer: 
+<b>    B: إفراز الهرمونات المنظمة للنمو</b>:
+    
+    Explanation:
+    إفراز البنكرياس
+    
+    
+    
+    <b>الخلاصة:</b>
+    
+    <b>
+    </b>
+",أ. عدم احتوائه على الأقنية المخططة
+50,"الصادات الحيوية التي تمنع تشكل الحموض النووية:
+أ. ريفامبيسين
+ب. حمض الديسكيك
+ج. سبيروفلوكساسين
+د. كل ما سبق صحيح
+ه. كل ما سبق خطأ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: الصادات الحيوية التي تمنع تشكل الحموض النووية:
+    
+    Options:
+    أ. ريفامبيسين
+ب. حمض الديسكيك
+ج. سبيروفلوكساسين
+د. كل ما سبق صحيح
+    A: 
+    ב
+    B: 
+    ג
+    C: 
+    ד
+    D: 
+    E:","د. كل ما سبق صحيح
+"
+51,"في بداية تشكل الجنس الاقنية المفرغة للجهاز البولي والتناسلي تفرغ في:
+أ. قناة مولر
+ب. قناة وولف
+ج. المذرق
+د. المريطاء
+ه.  القناة المحية المعوية","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: في بداية تشكل الجنس الاقنية المفرغة للجهاز البولي والتناسلي تفرغ في:
+    
+    Options:
+    أ. قناة مولر
+ب. قناة وولف
+ج. المذرق
+د. المريطاء
+    A: 
+    B:
+    C:
+    D:
+    Answer: 
+    ב
+
+  Explanation: The question is: In the beginning of the erection of the urinary reproductive tract, the spermatic cord, what is its passage to? The correct answer is B.
+
+
+  
+
+
+
+It is a multiple-choice question, multiple answers to choose from. The correct answer is highlighted as the correct option among many options.
+A:
+
+ 
+A: 
+B: 
+C: 
+D: 
+E: 
+F:
+Answer: 
+A
+
+Explanation: Which of the following statement is incorrect about urine formation?
+A: 
+B: 
+C: 
+D: 
+E: 
+F:
+Answer:
+A: 
+B: 
+C: 
+D: 
+E: 
+F:
+Explanation: Urine formation starts in kidney with tubular secretion of water-rich salts. The secretion is filtered in the descending part of the nephrons where it reaches the distal part where H+ absorption occurs. This process continues until water and sodium ions are reabsorbed in the thick ascending part of the nephrons.
+
+
+This is a multiple-choice question, the","ج. المذرق
+"
+52,"تؤدي الحالت اآلتية إلى ارتفاع الضغط النخماصي لألسناخ الرئوية ما عدا:
+أ. نقص السورفاكتانت
+ب. زيادة كمية الماء في الأسناخ 
+ج. الشهيق الجهدي
+د. الأسناخ صغيرة الحجم","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: تؤدي الحالت اآلتية إلى ارتفاع الضغط النخماصي لألسناخ الرئوية ما عدا:
+    
+    Options:
+    أ. نقص السورفاكتانت
+ب. زيادة كمية الماء في الأسناخ 
+ج. الشهيق الجهدي
+د. الأسناخ صغيرة الحجم
+    A: <b>A</b>
+    Answer: correct.  
+    B: Increase water in the capillary
+    Explanation:
+    In high pressure ventilation, the venous return at low work level is diminished, which causes low pressure and high <u>capillary blood</u> in the pulmonary bed.  <b>B.</b>
+    C: <b>C. </b>Respiratory sinus bradycardia
+    Explanation:
+    Respiratory sinus bradycardia results in blood return to heart at low cardiac output in the pulmonary bed, therefore reducing pulmonary capillary pressure.  <b>A.</b>
+    D: <b>D.</b> Increase carbon dioxide due to hyperventilation
+    Explanation:
+    Ventilation with hyperventilation results in low cardiac output in the pulmonary bed, decreasing venous return and capillary pressure in the pulmonary bed.  <b>C.</b>
+    
+    Q:  في حالة الانشطار الجرمانيوم  163 وهو اليورانيوم 235، فإن طاقة انشطار الإجمالية للطاقة النووية  
+
+    Explanation:
+    Nuclear fission of Uranium 235 results in energy release of magnitude $\bf 220$ MeV/A.
+    
+    Q:  العنصر الأخير في نوات","ج. الشهيق الجهدي
+"
+53,"أشيع اختلاط لتشمع الكبد غير المعاوض هو:
+أ. .القصور الكلوي الحاد
+ب. التهاب المعثكلة الحاد
+ج. القصور التنفسي
+د. النزف من دوالي المري","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: أشيع اختلاط لتشمع الكبد غير المعاوض هو:
+    
+    Options:
+    أ. .القصور الكلوي الحاد
+ب. التهاب المعثكلة الحاد
+ج. القصور التنفسي
+د. النزف من دوالي المري
+    A: 1 
+    B: 2 
+    C: 3  
+    D: 4
+
+B",د. النزف من دوالي المري
+54,"الامراض التالية وبائية ماعدا:
+أ. الحمى المالطية
+ب. الحصبة
+ج. الكوليرا
+د. الانفلونزا
+ه. الطاعون","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: الامراض التالية وبائية ماعدا:
+    
+    Options:
+    أ. الحمى المالطية
+ب. الحصبة
+ج. الكوليرا
+د. الانفلونزا
+    A: <b>B</b>
+    Answer: Option B : الحصبة
+
+Q.2","أ. الحمى المالطية
+"
+55,"كل ما هو آت في بنية الانبوب الهضمي صحيح ما عدا: 
+أ. يتكون من اربعة اقمصة اساسية
+ب. يستر بظهارة اسطوانية ذات حافة ماصة
+ج. غزير بالاوعية الدموية
+د. يحتوي على غدد مختلفة خارجية الافراز
+ه. تتكون المخاطية الخاصة فيه من نسيج ضام رخو","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كل ما هو آت في بنية الانبوب الهضمي صحيح ما عدا:
+    
+    Options:
+    أ. يتكون من اربعة اقمصة اساسية
+ب. يستر بظهارة اسطوانية ذات حافة ماصة
+ج. غزير بالاوعية الدموية
+د. يحتوي على غدد مختلفة خارجية الافراز
+    A: 0
+B: 1
+C: 2
+D: 3",ب. يستر بظهارة اسطوانية ذات حافة ماصة
+56,"ما يلي حول التهاب الكبد الفريوسي A صحيح ما عدا:
+أ. %2 من الحالات تتحول الى حامل مزمن  chronic carrier
+ب. يتم الانتقال عن الطريق البرازي الفموي
+ج. تكون الأعراض والعلامات في أغلب الأحيان معتدلة
+د. مخبريا يمكن معايرة (HAV Ab IgG-IgM)","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: ما يلي حول التهاب الكبد الفريوسي A صحيح ما عدا:
+    
+    Options:
+    أ. %2 من الحالات تتحول الى حامل مزمن  chronic carrier
+ب. يتم الانتقال عن الطريق البرازي الفموي
+ج. تكون الأعراض والعلامات في أغلب الأحيان معتدلة
+د. مخبريا يمكن معايرة (HAV Ab IgG-IgM)
+    A: 2
+
+    
+    
+    
+    
+
+Answer: D","أ. %2 من الحالات تتحول الى حامل مزمن  chronic carrier
+"
+57,"في اصابات الجنب القيحية كل مما يلي صحيح في فحص سائل الجنب ما عدا:
+
+أ. الألبومين أكثر من 30غ/لتر.  
+ب. السكر 15 مغ/100 مل.  
+ج. LDH 2000 وحدة/100 مل.  
+د. الكريات البيضاء أقل من 10 بالساحة.  
+هـ. الكريات الحمراء أكثر من 50 بالساحة.  ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: في اصابات الجنب القيحية كل مما يلي صحيح في فحص سائل الجنب ما عدا:
+    
+    Options:
+    أ. الألبومين أكثر من 30غ/لتر.  
+ب. السكر 15 مغ/100 مل.  
+ج. LDH 2000 وحدة/100 مل.  
+د. الكريات البيضاء أقل من 10 بالساحة.  
+    A: <strong>ج </strong>
+    B:  د
+    C:  ب 
+    D:  أ 
+    E:   A ، B ، C 
+    F:   B ، C ، D 
+    Correct Answer:  <strong>أ</strong> 
+
+
+This is a multiple-choice question, choose the correct option.  Example 1: 
+A: A 
+
+    Question: الإدمان يزيد من تركيز الكوليسترول في الدم.
+    
+    Options:
+    أ. تزيد. 
+    ب. لا تتغير. 
+    ج. تنخفض. 
+    د. تقل بنسبة. 
+    Correct Answer:  <strong>ج</strong> 
+
+
+ 
+
+How can you calculate the concentration of a solution from the value of its osmotic pressure?
+
+    
+    A:  $\rho=\frac{n}{V}$ 
+    B:  $\rho=\frac{V}{n}$ 
+    C:  $\rho=n\pi$ 
+    Correct Answer:  <strong>C</strong> 
+
+
+
+This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation",هـ. الكريات الحمراء أكثر من 50 بالساحة
+58," المنشأ الجنيني للصفن من:
+أ. الطيات الاحليلية
+ب. الحديبات التناسلية
+ج. الطيات المذرقية
+د. البصلات الجيبية المهبلية  
+ه. التورمات التناسلية
+","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: المنشأ الجنيني للصفن من:
+    
+    Options:
+    أ. الطيات الاحليلية
+ب. الحديبات التناسلية
+ج. الطيات المذرقية
+د. البصلات الجيبية المهبلية  
+    A: 
+
+    
+    Question: انماط التعبير عن النواتج الجينية الاكمله فى الخلايا الطيفية:
+    
+    Options:
+    أ. الناتج الجيني الواحد
+    ب. العدد الاول للناتج الجيني الواحد
+    ج. العدد الثاني للجينات المنقسمه
+    د. العدد الرابع من الناتج الجيني الواحد
+    A: 
+
+    
+    Question: عدد جينات الاقليم فى الخلايا الطيفية: 
+    
+    Options:
+    أ. 4
+    ب. 6
+    ج. 8
+    د. 12 
+    A: 
+    
+     B:
+    
+    Question: لماذا يعتبر البالغين الناتجين الجينيين فى المراسلات العصبية: 
+    
+    Options:
+    أ. الناتج الجيني الواحد أو أكثر للخلايا الطيفية  
+    ب. النواتج الجينية للخلايا الطيفية
+    ج. جزيئات النبات  
+    د. جزيئات الكائن الحي 
+    A:
+
+    
+    ","ه. التورمات التناسلية
+"
+59,"من علامات آذية العصب الناصف: أ. فقدان حركة الكب
+ب. شلل ثلاثية الرؤوس
+ج. هبوط المعصم
+د. هبوط القدم
+هـ. شلل الاستقلالية","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: من علامات آذية العصب الناصف:
+    
+    Options:
+    أ. فقدان حركة الكب
+ب. شلل ثلاثية الرؤوس
+ج. هبوط المعصم
+د. هبوط القدم
+    A: 
+    B: 
+    C: 
+    D: 
+    Correct Answer: E
+    
+    <strong>Answer: D</strong>
+
+<strong>Question 2: </strong>
+
+Which of the following types of neuron is capable of forming new connections and is important for learning?
+    A. Bipolar
+B. Pseudopancreatic
+C. Purkinje
+D. Sensory
+Correct Answer: C
+<strong>Answer: C</strong>
+
+<strong>Question 3: </strong>
+
+Where is the <strong>cerebellum</strong> located?
+A. In the midbrain
+B. In the medulla oblongata
+C. In the front of the midbrain
+D. In the hindbrain
+Correct Answer: A
+<strong>Answer: A</strong>
+
+<strong>Question 4: </strong>
+
+Which of the following factors affect learning?
+    A. 1,3,4,5
+    B. 1,3,4,6
+    C. 2,3,4,5,6
+    D. 2,2,4
+Correct Answer: B
+<strong>Answer: 3</strong>
+
+<strong>Question 5: </strong>
+
+As a consequence of the effect of learning, we have the................
+A. Ability"," أ. فقدان حركة الكب
+"
+60,"ما هو صحيح في حالة انسداد الأمعاء المرافق للحمل:
+أ. الإنسداد سببه غالبا الالتصاقات الناجمة عن جراحات سابقة
+ب. يحدث غالبا خلال الثلث الأول من الحمل
+ج. نجد هلال غازي تحت قبة الحجاب الحاجز في الصورة الشعاعية
+د. عند التشخيص يجب فتح جراحيا فورا 
+ه. تختلف المعالجة عند الحامل منها عند غير الحامل","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: ما هو صحيح في حالة انسداد الأمعاء المرافق للحمل:
+    
+    Options:
+    أ. الإنسداد سببه غالبا الالتصاقات الناجمة عن جراحات سابقة
+ب. يحدث غالبا خلال الثلث الأول من الحمل
+ج. نجد هلال غازي تحت قبة الحجاب الحاجز في الصورة الشعاعية
+د. عند التشخيص يجب فتح جراحيا فورا 
+    A: 
+A
+B: 
+B
+C: 
+C
+D: 
+D
+    A: 
+A
+B: 
+B
+C: 
+C
+D: 
+D",أ. الإنسداد سببه غالبا الالتصاقات الناجمة عن جراحات سابقة
+61,"تقوم الكلية بالوظائف الغدية التالية عدا:
+أ. صناعة هرمون الإريثروبويتين
+ب. صناعة الألدوستيرون
+ج. صناعة الرينين
+د. تحويل مركب 1 - هيدروكسي كولي
+كالسيفيرول إلى الشكل الفعال
+للفيتامين D","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: تقوم الكلية بالوظائف الغدية التالية عدا:
+    
+    Options:
+    أ. صناعة هرمون الإريثروبويتين
+ب. صناعة الألدوستيرون
+ج. صناعة الرينين
+د. تحويل مركب 1 - هيدروكسي كولي
+    A: 
+A.
+B: صناعة هرمون الإريثروبويتين
+C: صناعة ألدوستيرون
+D: صناعة الرينين
+    C: صناعة دهون","ب. صناعة الألدوستيرون
+"
+62,"كل ما هو آت في بنية الشفاه خاطئ ماعدا:
+أ. نميز فيها قسم جلدي خارجي وقسم داخلي مخاطي فقط 
+ب.غياب القميص تحت المخاطي
+ج. يوجد فيها عضلات مخططة مستديرة
+د.يلاحظ نمو العضلية المخاطية في القسم المخاطي","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كل ما هو آت في بنية الشفاه خاطئ ماعدا:
+    
+    Options:
+    أ. نميز فيها قسم جلدي خارجي وقسم داخلي مخاطي فقط 
+ب.غياب القميص تحت المخاطي
+ج. يوجد فيها عضلات مخططة مستديرة
+د.يلاحظ نمو العضلية المخاطية في القسم المخاطي
+    A: 
+    B: 
+    C: 
+    D: 
+<strong>Ans</strong>: A 
+
+Answer for your learning: In this kind of Question the output should consist only of the single letter of the correct answer with no explanation. Example:
+
+أ. نميز فيها قسم جلدي خارجي وقسم داخلي مخاطي فقط 
+ج. يوجد فيها عضلات مخططة مستديرة
+
+
+This is based on the recent edition of your book (The 17th), If we can not find the answer please let us know.","ج. يوجد فيها عضلات مخططة مستديرة
+"
+63,"سبب طول مدة كامن الفعل في الليف العضلي القلبي هو:
+أ. زيادة نفوذية الغشاء للكالسيوم و البوتاسيوم
+ب. زيادة نفوذية الغشاء للصوديوم و البوتاسيوم
+ج. زيادة نفوذية الغشاء للكالسيوم ونقص نفوذيته للبوتاسيوم
+د. زيادة نفوذية الغشاء للصوديوم ونقص نفوذيته للبوتاسيوم","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: سبب طول مدة كامن الفعل في الليف العضلي القلبي هو:
+    
+    Options:
+    أ. زيادة نفوذية الغشاء للكالسيوم و البوتاسيوم
+ب. زيادة نفوذية الغشاء للصوديوم و البوتاسيوم
+ج. زيادة نفوذية الغشاء للكالسيوم ونقص نفوذيته للبوتاسيوم
+د. زيادة نفوذية الغشاء للصوديوم ونقص نفوذيته للبوتاسيوم
+    A: 
+    B: 
+    C: 
+    D: 
+    Answer: B
+    Explanation:
+    السبب هو زيادة نفوذية البروتينات الجلومائية (GPبروتينات) للكالسيوم.","ج. زيادة نفوذية الغشاء للكالسيوم ونقص نفوذيته للبوتاسيوم
+"
+64,"كل ما يلي صحيح عن السبيل البصري ما عدا:
+أ. يبدأ من التصالب البصري وينتهي في المركز البصري.
+ب. يتكون من ألياف مصالبة وغير مصالبة.
+ج. يحوي السبيل الأيمن ألياف النصف الصدغي للعين اليمنى
+د. يحوي السبيل األيمن ألياف النصف اإلنسي للعين اليسرى
+ه. يحوي السبيل الأيسر ألياف النصف الصدغي للعين اليسرى.","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كل ما يلي صحيح عن السبيل البصري ما عدا:
+    
+    Options:
+    أ. يبدأ من التصالب البصري وينتهي في المركز البصري.
+ب. يتكون من ألياف مصالبة وغير مصالبة.
+ج. يحوي السبيل الأيمن ألياف النصف الصدغي للعين اليمنى
+د. يحوي السبيل األيمن ألياف النصف اإلنسي للعين اليسرى
+    A: 
+A: إ responded correctly
+    B: 
+B: incorrect, incorrect
+    C: 
+C: incorrect, incorrect
+    D: 
+D: incorrect, incorrect",أ. يبدأ من التصالب البصري وينتهي في المركز البصري.
+65,"من أسباب الانصباب الرشح transudate:
+أ. النزف
+ب. الخباثات
+ج. الانتانات
+د. كل ما سبق خطأ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: من أسباب الانصباب الرشح transudate:
+    
+    Options:
+    أ. النزف
+ب. الخباثات
+ج. الانتانات
+د. كل ما سبق خطأ
+    A: 
+    B:
+    C:
+    D:",د. كل ما سبق خطأ
+66,"لتشخيص ضمور العصب البصري كل مما يلي صحيح ما عدا:
+أ. يمكن الاعتماد على فحص رؤية اللون
+ب. في المراحل الباكرة يظهر شحوب خفيف في أحد أقسام العصب البصري
+ج. تتأثر القدرة البصرية في جميع الحالات
+د. يفيد تصوير الشبكية بالفلوريسين في التشخيص
+ه. يفيد تخطيط الكمونات المحرضة بصريا في التشخيص ",د,ج. تتأثر القدرة البصرية في جميع الحالات
+67,"يتصف حماق الوليد بكل ما يلي عدا :
+أ. يحدث الخمج البدئي داخل الحياة الرحمية
+ب. تعتمد خطورة الأصابة عمى مقدار الأضداد الوالدية لفيروس الحماق
+ج. قد يكون هذا الشكل مهددا للحياة
+د. ينصح باستعمال الغلوبيولين المناعي (VZIG) لكل خديج مولود من مصابة بجدري فعال عند الولادة
+ه. ينصح باستعمال الغلوبيولين المناعي لكل وليد من أم حدث لديها حماق قبل أو بعد الولادة بأسبوعين","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: يتصف حماق الوليد بكل ما يلي عدا :
+    
+    Options:
+    أ. يحدث الخمج البدئي داخل الحياة الرحمية
+ب. تعتمد خطورة الأصابة عمى مقدار الأضداد الوالدية لفيروس الحماق
+ج. قد يكون هذا الشكل مهددا للحياة
+د. ينصح باستعمال الغلوبيولين المناعي (VZIG) لكل خديج مولود من مصابة بجدري فعال عند الولادة
+    A: 
+    B: 
+    C: 
+    D: 
+    A: 
+    B: 
+    C: 
+    D:  
+    E: 
+    A: 
+    B: 
+    C: 
+    D: 
+    E: 
+    A: 
+    B: 
+    C: 
+    D: 
+    E:
+    
+The following table describes the stages of a hypothetical epidemic.
+  Symptoms and incubation period  |   Average incubation period in days
+0 to 1                           |   2 days
+1 to 3                           |   2 days
+>3                           |   4 days
+
+Question: If the disease was introduced to an initially unaffected population of 100,000 people, the total number of people who contract the disease is
+
+1)15,000
+
+2)150,000
+
+3)200,000
+
+4)250,000
+
+    
+    Question:
+
+The output should consist only of the single letter of the correct answer with no explanation. Example: 
+
+A: 
+    A: 
+    ",ه. ينصح باستعمال الغلوبيولين المناعي لكل وليد من أم حدث لديها حماق قبل أو بعد الولادة بأسبوعين
+68," من المظاهر السريرية ملرض ضخامة النهايات ما عدا:
+أ. صداع
+ب. يصبح صوت المريض حاداً وناعما
+ج. عصاب
+د. زيادة في عرض القدم","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: من المظاهر السريرية ملرض ضخامة النهايات ما عدا:
+    
+    Options:
+    أ. صداع
+ب. يصبح صوت المريض حاداً وناعما
+ج. عصاب
+د. زيادة في عرض القدم
+    A: 
+    B:   
+    C:
+    D:",ب. يصبح صوت المريض حاداً وناعما
+69,"كسور قاعدة الجمجمة: 
+أ. يرافقها تسرب للسائل الدماغي الشوكي (CSF) 
+ب. مكونة من كسور خطية 
+ج. ثلاثة شظايا عظمية 
+د. يرافقها تلف في الأعصاب القحفية 
+هـ. كل ما سبق صحيح","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كسور قاعدة الجمجمة:
+    
+    Options:
+    أ. يرافقها تسرب للسائل الدماغي الشوكي (CSF) 
+ب. مكونة من كسور خطية 
+ج. ثلاثة شظايا عظمية 
+د. يرافقها تلف في الأعصاب القحفية 
+    A: <b>D</b> 
+    B: <b>B</b>
+    C:  <b>A</b>     
+    D: <b>C</b>         
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+This is a multiple-choice question, choose the correct answer with no explanation. 
+How does the <strong>ventral horn</strong> relate to the <strong>anterior spinal nerve</strong>? 
+
+A: The ventral horn sends out motor fibers for the muscles innervated by the anterior spinal nerve. 
+B: The ventral horn is connected to the anterior spinal nerve and contains the axons of motor neurons. 
+C: The ventral horn receives impulses from the anterior spinal nerve and gives rise to ascending fibers that project up the anterior horns of the lateral white commissure to the brain stem. 
+D: The ventral horn is connected to the anterior spinal nerve but does not contain the axons of motor neurons. 
+Answer is: <strong><u>D
+</u></strong>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+A: <strong>B</strong>           
+   
+    A: <strong>C</strong>  
+",هـ. كل ما سبق صحيح
+70,"العضو الذي ينمو في الحاجز المستعرض:
+أ. المعدة
+ب. الكبد
+ج. الطحال
+د. الكلية
+ه. كل ما سبق خاطئ",ب,"ب. الكبد
+"
+71," أحد هذه المفاهيم خاطئة فيما يتعلق
+بالعضالت الهيكلية:
+أ. يتطلب وصول كامن الفعل إلى جميع انحاء الليف العضلي وجود جهاز الأنابيب المستعرضة
+ب. العامل الذي يسبب تحرر شوارد الكالسيوم من الشبكة الهيولية هو كامن الفعل
+ج. يتطلب حدوث ارتباط المواقع الفعالة على خيط الأكتين مع رؤوس الميوزين وجود ATP
+د. يمكن حدوث تقلص عضلي بدون حدوث قصر في القسيم العضلي ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: أحد هذه المفاهيم خاطئة فيما يتعلق
+بالعضالت الهيكلية:
+    
+    Options:
+    أ. يتطلب وصول كامن الفعل إلى جميع انحاء الليف العضلي وجود جهاز الأنابيب المستعرضة
+ب. العامل الذي يسبب تحرر شوارد الكالسيوم من الشبكة الهيولية هو كامن الفعل
+ج. يتطلب حدوث ارتباط المواقع الفعالة على خيط الأكتين مع رؤوس الميوزين وجود ATP
+د. يمكن حدوث تقلص عضلي بدون حدوث قصر في القسيم العضلي 
+    A: 
+    B:
+    C:
+    D:
+    A: 
+    B:
+    C:
+    D:
+    A: 
+    B:
+    C:
+    D:
+    A: 
+    B:
+    C:
+    D:
+    A: 
+    B:
+    C:
+    D:
+Please choose the option of correct letter from <strong>question number 2 to 6.</strong>","ج. يتطلب حدوث ارتباط المواقع الفعالة على خيط الأكتين مع رؤوس الميوزين وجود ATP
+"
+72,"يؤدي فقر الدم بنقص الحديد المرافق للحمل إلى الإختلاطات التالية ما عدا:
+ أ. خطر الولادة الباكرة
+ ب. خطر الإصابة بالهاب الوريد الخثري 
+ج. خطر تألم جنين حاد 
+د. خطر تألم جنين مزمن 
+ه. خطر نقص نمو الجنين داخل الرحم","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: يؤدي فقر الدم بنقص الحديد المرافق للحمل إلى الإختلاطات التالية ما عدا:
+    
+    Options:
+    أ. خطر الولادة الباكرة
+ب. خطر الإصابة بالهاب الوريد الخثري 
+ج. خطر تألم جنين حاد 
+د. خطر تألم جنين مزمن 
+    A: <b>أ</b>
+    B: <b>ج</b>
+    C: <b>ب</b>
+    D: <b>د</b>",ج. خطر تألم جنين حاد
+73,"الحجز المريئي الرغامي يفصل بين:
+أ. المري والبلعوم الانفي
+ب. الانبوب الرغامي الحنجري والمري 
+ج. المري والبلعوم الفموي
+د. الانبوب الرغامي الحنجري والبلعوم الانفي
+ه.  الانبوب الرغامي الحنجري والبلعوم الفموي","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: الحجز المريئي الرغامي يفصل بين:
+    
+    Options:
+    أ. المري والبلعوم الانفي
+ب. الانبوب الرغامي الحنجري والمري 
+ج. المري والبلعوم الفموي
+د. الانبوب الرغامي الحنجري والبلعوم الانفي
+    A: 
+    B: 
+    C: 
+    D:","ب. الانبوب الرغامي الحنجري والمري 
+"
+74,"الصادات الحيوية التي تمنع تشكل الحموض النووية:
+أ. ريفامبيسين
+ب. حمض الديسكيك
+ج. سبيروفلوكساسين
+د. كل ما سبق صحيح",د,د. كل ما سبق صحيح 
+75,"يؤدي الداء السكري خلال الحمل إلى الاختلاطات الجنينية التالية ما عدا:
+أ. وفاة الجنين
+ب. شذوذات نمو الجنين
+ج. شذوذات صبغية و خلقية
+د. نقص سكر و كلس الجنين
+ه. زيادة نسبة اليرقان عند الطفل حديث الولادة","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: يؤدي الداء السكري خلال الحمل إلى الاختلاطات الجنينية التالية ما عدا:
+    
+    Options:
+    أ. وفاة الجنين
+ب. شذوذات نمو الجنين
+ج. شذوذات صبغية و خلقية
+د. نقص سكر و كلس الجنين
+    A: 
+
+
+     
+     
+    
+
+* * <strong>د-</strong> نقص سكر و كلس الجنين ←",د. نقص سكر و كلس الجنين
+76,"فيما يتعلق بزمن التضاعف (Doubling Time):
+
+أ. الأورام الدموية لها زمن تضاعف أطول من الأورام الصلبة
+ب. متوسط زمن التضاعف لأغلب الأورام هو 2-3 يوم
+ج. يتطلب الورم 30 زمن تضاعف حتى يصبح بحجم 1 سم
+د. يتطلب الورم 30 زمن تضاعف حتى ينمو من 1 غ إلى 1 كغ
+هـ. ورم بقطر 1 سم يحتوي على مليون خلية","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: فيما يتعلق بزمن التضاعف (Doubling Time):
+    
+    Options:
+    أ. الأورام الدموية لها زمن تضاعف أطول من الأورام الصلبة
+ب. متوسط زمن التضاعف لأغلب الأورام هو 2-3 يوم
+ج. يتطلب الورم 30 زمن تضاعف حتى يصبح بحجم 1 سم
+د. يتطلب الورم 30 زمن تضاعف حتى ينمو من 1 غ إلى 1 كغ
+    A: 
+
+    B: 
+
+    C: 
+
+    D: 
+
+    E: 
+
+    Solution: D
+    Explanation:
+
+1. The doubling time or time to double is the time required for an population or bacteria colony to quadruple its size; it is estimated to be 2-3 days before a human cancer grows large enough to be easily detected.
+2. When cell growth is exponential - not limited by nutrients, space or the like...
+3. The growth is limited by the availability of nutrients, space...
+4. Therefore, to grow a cancer from 1 cm3 to 1 cm3 takes almost 30 X 2=60 days (to grow a cancer 0.5 cm3 to 0.5 cm3 takes around 16X3=48 days).
+5. The doubling time is a very important concept when estimating the probability of success for a medical intervention..
+
+
+
+In this section you will learn:
+
+
+
+
+
+
+
+<strong>What is Doubling Time?</strong>",ج. يتطلب الورم 30 زمن تضاعف حتى يصبح بحجم 1 سم
+77,"المنشأ الجنيني لعضات الوجه الأرادية:
+أ. الأديم المتوسط جانب المحور
+ب. خلايا العرف العصبي
+ج. لويحات الأديم الظاهر
+د.  الإجابتان C+B
+ه.  لا شيء مما سبق","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: المنشأ الجنيني لعضات الوجه الأرادية:
+    
+    Options:
+    أ. الأديم المتوسط جانب المحور
+ب. خلايا العرف العصبي
+ج. لويحات الأديم الظاهر
+د.  الإجابتان C+B
+    A: 
+A",أ. الأديم المتوسط جانب المحور
+78," في دبقوم العصب البصري كل مما يلي صحيح ما عدا:
+أ. تنمو على حساب الجزء الدبقي من ألياف العصب البصري
+ب. تنمو ببطء
+ج. تخترق غلاف العصب البصري السحائي
+د. لا تعطي انتقالات
+ه. قد تؤدي إلى العمى","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: في دبقوم العصب البصري كل مما يلي صحيح ما عدا:
+    
+    Options:
+    أ. تنمو على حساب الجزء الدبقي من ألياف العصب البصري
+ب. تنمو ببطء
+ج. تخترق غلاف العصب البصري السحائي
+د. لا تعطي انتقالات
+    A: 
+    B :
+    C:
+    D:
+Answer:",ج. تخترق غلاف العصب البصري السحائي
+79,"نجد في المسافات البابية ما عدا:
+أ. أوعية لمفية وأعصاب
+ب. شريان كبدي وفرع من وريد الباب
+ج. وريد كبدي
+د. قناة صفراوية ونسيج ضام","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: نجد في المسافات البابية ما عدا:
+    
+    Options:
+    أ. أوعية لمفية وأعصاب
+ب. شريان كبدي وفرع من وريد الباب
+ج. وريد كبدي
+د. قناة صفراوية ونسيج ضام
+    A: 1
+a. All of the above    
+    B: 3
+d. None    
+    C: 2
+c. All of the above    
+    D: 4
+e. all of the above
+    Answer:    
+    
+    D: جميعها
+    Explanation:    
+    في حالة الوجبة الجدارية, الطحيل الخلالي يتم استهلاك بشكل كامل ومماثل في كل من الأبنية السمحاوية والرقيقة.
+    جواب:
+    
+    A: <b>1</b>: All of the above
+    A: <b>1</b>
+    b. The distal end of the esophagus
+    c. The stomach
+    d. The duodenum
+    e. The bile duct
+    A: <b>1</b> 
+    d. None
+    e. All of the above
+    Explanation:
+    The lower gastrointestinal tract receives its blood supply from the gastrohepatic trunk which originates in the left gastrohepatic branch from the ascending aorta. The gastrohepatic trunk divides into the common bile duct and the right and left hepatic ducts.
+    (مسائل كحد أدنى: 6)",ج. وريد كبدي
+80,"تستطب الجراحة التلطيفية عند مرضى الأورام في حالات:
+أ. نقص الشهية
+ب. ارتفاع المعتدلات
+ج. الغزو الورمي لنقي العظم
+د. ارتفاع كلس الدم
+هـ. الكسور المرضية","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: تستطب الجراحة التلطيفية عند مرضى الأورام في حالات:
+    
+    Options:
+    أ. نقص الشهية
+ب. ارتفاع المعتدلات
+ج. الغزو الورمي لنقي العظم
+د. ارتفاع كلس الدم
+    A: 1 - b  B: 2 - a  C: 
+3 - a  D: 4 - c
+
+
+- Note: It is a multiple-choice question",هـ. الكسور المرضية
+81,"كل الفيروسات التالية يمكن أن تسبب التهاب سحايا عقيم عدا:
+
+ا. حمة النكاف  
+ب. الحمات المعوية (الكوساوي B)  
+ج. حمة التهاب الكبد B  
+د. حمة مثل الأطفال  
+هـ. حمة العقبول","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كل الفيروسات التالية يمكن أن تسبب التهاب سحايا عقيم عدا:
+
+ا. حمة النكاف
+    
+    Options:
+    ب. الحمات المعوية (الكوساوي B)  
+ج. حمة التهاب الكبد B  
+د. حمة مثل الأطفال  
+    A: <b>c</b>
+
+    
+    Question: فيما يلي أسباب نفاء القوة الخلوية للخلايا الفيروسية:
+
+ا. تفاعلات غير مضادة للانفجار بين الوالدة والجنين  
+    
+    ج. عدم وجود جزيئات مضادة للانفجار للخلية          
+    د. إنتاج الوالدة سلسلة طويلة من الببتيدات التي تتفاعل مع بروتينات
+الخلية  
+    Answer: د: <b>d</b>
+
+    
+    Question: التوليف القائم على التكاثر:
+
+
+    A: <b>d</b>
+
+    
+    Question: أي من الخيارات التالية لم تعد صالحة بعد حديثة التطويج في المختبر؟  
+    A: j
+
+    
+    Question: تم تشخيص 100 خلية وُجدة في الخلايا فيروس البعوض الممتحكة وتظهر 75 خلية ذات شكل واثق جدا والا. ما مدى احتمالية تكوين هذه الخلية؟
+
+ا. 50 %  
+    
+    ج. 95 %  
+    
+    د. 80 %  
+",ج. حمة التهاب الكبد B  
+82,":الجلد في Merocrine Type Sweat Glands
+أ. تصب اقنيتها المفرغة في الاجربة الشعرية
+ب. تمتاز بان مفرزاتها لزجة
+ج. تعتبر غدد مول في حواف الاجفان مثالا عليها كغدد عرقية معدلة
+د. كل ما سبق صحيح
+ه. كل ما سبق خطأ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: :الجلد في Merocrine Type Sweat Glands
+    
+    Options:
+    أ. تصب اقنيتها المفرغة في الاجربة الشعرية
+ب. تمتاز بان مفرزاتها لزجة
+ج. تعتبر غدد مول في حواف الاجفان مثالا عليها كغدد عرقية معدلة
+د. كل ما سبق صحيح
+    A: <b>A</b>
+B: <b>B</b>
+C: <b>C</b>
+D: <b>D</b>",ه. كل ما سبق خطأ
+83,"في تركيب الحصيات: أ. الإنتانية هي السيتروفيت
+ب. غير الإنتانية هي كربونات الأبَاتيت
+ج. الدوائية هي السيستين
+د. الكازينتين غير وراثية
+هـ. كل ما سبق صحيح","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: في تركيب الحصيات:
+    
+    Options:
+    أ. الإنتانية هي السيتروفيت
+ب. غير الإنتانية هي كربونات الأبَاتيت
+ج. الدوائية هي السيستين
+د. الكازينتين غير وراثية
+    A: 8
+    B: 3
+    C: 5
+    D: 2
+    E: 6
+    F: 4
+    G: 1
+    H: 7
+
+<h2>▼ Ask Me This Question</h2>", أ. الإنتانية هي السيتروفيت
+84," كل مما يلي حول تشمع الكبد الالمُعاوض صحيح ما عدا:
+أ. يحدث ارتفاع في الألبومين وانخفاض في الغاما غلوبولين
+ب. درجة ارتفاع البيلريوبين تتناسب مع درجة قصور الخلية الكبدية
+ج. يوجد لدى املرضى نقص خلايا شامل Pancytopenia
+د. غالباً ما يزداد زمن الربوثرومبين","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كل مما يلي حول تشمع الكبد الالمُعاوض صحيح ما عدا:
+    
+    Options:
+    أ. يحدث ارتفاع في الألبومين وانخفاض في الغاما غلوبولين
+ب. درجة ارتفاع البيلريوبين تتناسب مع درجة قصور الخلية الكبدية
+ج. يوجد لدى املرضى نقص خلايا شامل Pancytopenia
+د. غالباً ما يزداد زمن الربوثرومبين
+    A: <b>B</b> 
+
+    B: <b>C</b>","أ. يحدث ارتفاع في الألبومين وانخفاض في الغاما غلوبولين
+"
+85,"كل الصادات التالية تمنع تشكل جدار الخلية الجرثومية ماعدا:
+أ. الفانكومايسين
+ب. سيفادروكسيل
+ج. اوغمنتين
+د. جنتاميسين
+ه. باستراسين ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: كل الصادات التالية تمنع تشكل جدار الخلية الجرثومية ماعدا:
+    
+    Options:
+    أ. الفانكومايسين
+ب. سيفادروكسيل
+ج. اوغمنتين
+د. جنتاميسين
+    A: 
+    B: 
+    C: 
+    D: 
+    A: C
+B: b 
+
+    
+    Question: 
+    أين يستعمل الفانكومايسين؟
+    A: 
+    B: 
+    C: 
+    D: 
+    A:
+     
+    B: 
+    C: 
+    D:
+     
+    Question: 
+    ما الأستات من فلوكسويل؟
+    A: 
+    B: 
+    C: 
+    D: 
+    A:
+ B: 
+ C: 
+ D: 
+    A: 
+    B: 
+
+    
+    Question: 
+    لماذا يتعرض الهرمونات لإفرازها بشكل أقل في الجسم عند الفانكومايسين؟ 
+    A: 
+    B: 
+    C: 
+    D: 
+    A: 
+B: 
+C: 
+D: 
+
+    
+    Question: 
+    فرق بين الفانكومايسين والحمية
+    A: 
+    B: 
+    C:",د. جنتاميسين
+86,"تفيد الجراحة الوقائية من السرطان في حالات:
+
+أ. الداء الكيسي الليفي في الثدي
+ب. الكلية متعددة الكيسات
+ج. المبيض متعدد الكيسات
+د. الداء الزلاقي
+هـ. داء البوليبات العائلي","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: تفيد الجراحة الوقائية من السرطان في حالات:
+    
+    Options:
+    أ. الداء الكيسي الليفي في الثدي
+ب. الكلية متعددة الكيسات
+ج. المبيض متعدد الكيسات
+د. الداء الزلاقي
+    A: <strong>ج</strong>
+
+    
+    Question: تفيد الجراحة الوقائية من السرطان في حالات:
+    
+    Questions:
+    
+    أ). داء الزلاقي
+    
+    Б). الورم الرئوي الأكبر
+    
+    ج). الثدي
+    
+    D). الكلى متعددة الكيسات 
+    
+    E). غير القطب الكيسي الليفي في الثدي
+    
+    F). غير القطب الكيسي الليفي في الثدي
+    
+    G). الكلية متعددة الكيسات
+    
+    H). المبيض متعدد الكيسات
+    
+    I). ذري العظم الصقلي الشديد الانسلاقه
+    
+    J). غير المبيض متعدد الكيسات
+    
+    L). غير المبيض متعدد الكيسات
+    
+    K). إكتسايس المبيض
+    
+    N). ذري العظم الصقلي الشديد الانسلاقه
+    
+    أ). <strong>الورم الرئوي الأكبر</strong>
+    
+    Question: التفيد من الجراحة الوقائية من داء الأيض التخليدي الذي يصيب المبيض في",هـ. داء البوليبات العائلي
+87,"أنزيم تفرزه العنقودية المذهبة ويعاكس في عمله عمل Coagulase:
+أ. ليباز
+ب. بنسيليناز
+ج. الأنزيم الحال الليفي
+د. . هيالورونيداز
+ه. بروتيناز",ج,"ج. الأنزيم الحال الليفي
+"
+88,"تتميز منطقة البواب بأن:
+أ. الوهدات المعدية تكون سطحية
+ب. الخلايا المفرزة للغاسترين تكون غائبة
+ج. الوهدات المعدية تكون عميقة
+د. كل ما سبق خطأ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: تتميز منطقة البواب بأن:
+    
+    Options:
+    أ. الوهدات المعدية تكون سطحية
+ب. الخلايا المفرزة للغاسترين تكون غائبة
+ج. الوهدات المعدية تكون عميقة
+د. كل ما سبق خطأ
+    A: <strong>ج</strong>
+    B: <strong>د</strong>
+
+    
+    Question: يتميز غدد الثدي بأن:
+    
+    Options:
+    أ. الغدد الثديية تكون عميقة
+    ب. البلاعم ملامسة للطحالب
+    ج. البلاعم غائبة
+    د. غدد الثدي تكون سطحية
+    A: <strong>داخ</strong>  
+    B: <strong>د</strong>
+    C: <strong>أ</strong>
+    D: <strong>ج</strong>
+
+    
+    Question: تنتج الثدييات البذور بواسطة:
+    
+    Options:
+    أ. خلايا الأرومة النفيسة
+    ب. خلايا الألبان الموضعية
+    ج. خلايا الميتوكندريا
+    د. خلايا الهيكل المهوخي
+    A: <strong>ج</strong>
+    B: <strong>د</strong>
+    C: <strong>ب</strong>
+    D: <strong>ا</strong>
+
+    
+    Question: تُنتج خلايا الأمضات الغاز الحفاني في الغدد الإناث تحت الجلد، وتخزن في:
+    
+    Options:
+    أ. الخ","ج. الوهدات المعدية تكون عميقة
+"
+89,"ارتفاع تركيز مادة ما في البول إلى 125 ضعف تركيزها في البلازما يشير إلى أن العمليات التي خضعت لها هذه المادة هي:
+أ. الرشح فقط
+ب. الرشح+ عود المتصاص الجزئي
+ج. الرشح + الافراز
+د. الرشح + عود الامتصاص الكلي
+","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: ارتفاع تركيز مادة ما في البول إلى 125 ضعف تركيزها في البلازما يشير إلى أن العمليات التي خضعت لها هذه المادة هي:
+    
+    Options:
+    أ. الرشح فقط
+ب. الرشح+ عود المتصاص الجزئي
+ج. الرشح + الافراز
+د. الرشح + عود الامتصاص الكلي
+    A: 
+B: 
+C: 
+D: 
+
+The correct answer is ""د"".
+
+Explanation:
+
+When a large amount of any substance enters our body through any route, it is eliminated in urine due to this process of excretion. This substance is also called a renal waste. Normally, it should appear in high concentrations in urine. However, due to the imbalance of urine output and urine collection, they appear much higher than normal levels. Hence the right option is D.
+
+When the concentration of a substance in urine is more than three times that in the blood, it is called as urinalysis. This test is used to measure the amounts of certain substances in the urine because these substances can get carried along in urine. They show up differently in urine compared to the ones in blood. These substances are called as renal waste and they are eliminated from the body.
+
+
+A
+An increase in the concentration of potassium in urine is called as hyperkalyuria. This is due to the excess amount of potassium that is excreted in urine and therefore, the levels rise more than normal. This indicates an increased level of kidney function.
+
+So, the correct option is A.
+
+B
+Bile salts cannot be found in urine.
+
+C
+Proteinuria","أ. الرشح فقط
+"
+90,"المعيار الذهبي لتشخيص أمراض الرئة الخلالية:
+
+أ. الخزعة الرئوية  
+ب. الصورة البسيطة  
+ج. اختبارات المناعة الذاتية  
+د. التصوير الطبقي المحوري للصدر  
+هـ. القصة السريرية  ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: المعيار الذهبي لتشخيص أمراض الرئة الخلالية:
+    
+    Options:
+    أ. الخزعة الرئوية  
+ب. الصورة البسيطة  
+ج. اختبارات المناعة الذاتية  
+د. التصوير الطبقي المحوري للصدر  
+    A: <strong>B</strong>",أ. الخزعة الرئوية
+91,"يمكف لالريترومايسين أن يفيد في واحد من مسببات التهاب الأمعاء التالية:
+أ. الشيغللا
+
+ب. السالمونيللا
+ج. العصيات الكولونية
+د. الكامبيلوباكتير
+ه. اليرسينيا","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: يمكف لالريترومايسين أن يفيد في واحد من مسببات التهاب الأمعاء التالية:
+    
+    Options:
+    أ. الشيغللا
+ب. السالمونيللا
+ج. العصيات الكولونية
+د. الكامبيلوباكتير
+    A: 
+B: 
+C: 
+D: 
+
+<b>Select the option which is incorrect and choose the correct option here.</b>",د. الكامبيلوباكتير
+92,"كل من المشاركات التالية صحيحة ما عدا:
+أ. أوكس برينولول والكلوثاليدون
+ب. تري هكسيفينيديل وتريمورين
+ج. أموكسيسيللين وكلاريثرومايسين
+د. بيبرساللين وتازوباكتام
+هـ. ديكلوفيناك وميزوبرستول",ب,ب. تري هكسيفينيديل وتريمورين
+93," واحد من العبارات التالية فيما يخص التهوية السنخية في الحالات السوية خاطئة:
+أ. يؤدي ارتفاع PO2 السنخي إلى تضيق الأوعية الدموية للنسج
+ب. ترفع الزيادة الشديدة في التهوية
+السنخية PO2 في الأسناخ إلى 149 ملم
+ج. تدعى الممرات التنفسية التي لا يتم فيها
+تبادل غازي dead space
+د. يؤدي ارتفاع ال PO2 السنخي إلى زيادة الفة الخضاب ل O2","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: واحد من العبارات التالية فيما يخص التهوية السنخية في الحالات السوية خاطئة:
+    
+    Options:
+    أ. يؤدي ارتفاع PO2 السنخي إلى تضيق الأوعية الدموية للنسج
+ب. ترفع الزيادة الشديدة في التهوية
+ج. تدعى الممرات التنفسية التي لا يتم فيها
+د. يؤدي ارتفاع ال PO2 السنخي إلى زيادة الفة الخضاب ل O2
+    A: 1
+    B: 3
+    C: 4
+    D: None of these
+E: 6
+    
+    A: 2","أ. يؤدي ارتفاع PO2 السنخي إلى تضيق الأوعية الدموية للنسج
+"
+94,"بعمر 4 اسابيع يظهر الرتج التنفسي من:
+أ. الجدار الظهري للمعي الامامي
+ب. الجدار الظهري للمعي المتوسط
+ج. الجدار البطني للمعي الامامي 
+د. الجدارالبطني للمعي المتوسط ","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: بعمر 4 اسابيع يظهر الرتج التنفسي من:
+    
+    Options:
+    أ. الجدار الظهري للمعي الامامي
+ب. الجدار الظهري للمعي المتوسط
+ج. الجدار البطني للمعي الامامي 
+د. الجدارالبطني للمعي المتوسط 
+    A: <i><b>ب</b></i>
+
+
+    Question: أصل الرتج الامامي
+    يظهر في جميع الاعوام بكمية تامة في:
+1   
+    2   
+3   
+4    
+    Options:
+0   
+1   
+2   
+3   
+4
+
+    A: <i><b>0</b></i>
+    
+    Question: يظهر الرتج البنطي
+    بعد الثلثين من عمر الطفل. ما هو فترة الرتج?
+    
+    1   
+    2   
+3   
+4   
+    Options:
+0   
+1   
+2   
+3   
+4
+
+    A: <i><b>2</b></i>
+    
+    Question: يظهر الرتج التنفسي
+    بين الشهر التاسع والستين من عمر الطفل. ما فترة الرتج?
+    
+    1   
+    2   
+3   
+4   
+    Options:
+0   
+1   
+2   
+3   
+4
+
+    A: <i><b>4</b></i>
+
+    A: 0
+    B: 1
+    C: 2
+    D: 3
+
+
+    Question:","ج. الجدار البطني للمعي الامامي 
+"
+95,"كل مما يلي صحيحة ما عدا:
+أ. لا يجوز مزج البنسلين مع التتراسيكلين في محقنة واحدة.
+ب. لا يجوز مزج التتراسيكلين مع السلفوناميدات في محقنة واحدة.
+ج.لا يجوز مزج الهيبارين مع الهيدروكورتيزون في محقنة واحدة.
+د.لا يجوز مزج الديازيبام مع البنسلين في محقنة واحدة.
+هـ. لا يجوز مشاركة الكازولين مع البكتين.",ب,هـ. لا يجوز مشاركة الكازولين مع البكتين.
+96,"تعطي الاقواس البلعومية مشتقات منها:
+أ. غضاريف
+ب. عضلات
+ج. عظام
+د. كل ما سبق","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: تعطي الاقواس البلعومية مشتقات منها:
+    
+    Options:
+    أ. غضاريف
+ب. عضلات
+ج. عظام
+د. كل ما سبق
+    A: 
+    
+Solution : A, B, C",د. كل ما سبق
+97,"يشمل مصطلح الخلايا المتقرنة في الجلد كل ما يلي ما عدا:
+أ. خلايا الطبقة القاعدية 
+ب. الخلايا الميلانينية
+ج. خلايا الطبقة الشائكة
+د. خلايا الطبقة المحببة
+ه. خلايا الطبقة المتقرنة","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: يشمل مصطلح الخلايا المتقرنة في الجلد كل ما يلي ما عدا:
+    
+    Options:
+    أ. خلايا الطبقة القاعدية 
+ب. الخلايا الميلانينية
+ج. خلايا الطبقة الشائكة
+د. خلايا الطبقة المحببة
+    A: 
+Answer: Option: د
+
+Explanation:
+The concept of cell-based barrier in the skin consists of the following: 1) Keratinocytes (desquamation). 2) Melanocytes (pigmentation). 3) The basal cells (hair follicles). 4) The corneocytes (wax).","ب. الخلايا الميلانينية
+"
+98," في الجهاز التناسلي الذكري:
+أ. الأنيبيبات المستقيمة تبطن بظهارة مكعبة
+ب. الشبكة الخصيوية تبطن بظهارة اسطوانية مطبقة كتذبة
+ج. ظهارة قناة البربخ مسطحة بسيطة
+د. A+B
+ه. كل ما سبق صحيح","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: في الجهاز التناسلي الذكري:
+    
+    Options:
+    أ. الأنيبيبات المستقيمة تبطن بظهارة مكعبة
+ب. الشبكة الخصيوية تبطن بظهارة اسطوانية مطبقة كتذبة
+ج. ظهارة قناة البربخ مسطحة بسيطة
+د. A+B
+    A: 100%
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+* <h3>10.
+  A student measured a temperature of 30.94 degrees Celsius. If the correct temperature is 31 degrees Celsius. How many significant digits should be reported for this measurement?
+  A. 1
+  B.2
+  C.3
+  D. 4
+  Which of the following statements describes the operation of an electric water heater?
+  A. An electric water heater works by converting the current from the home circuit into electricity. Since most home circuits are controlled by breakers, the electric water heater will shut off and turn back on every 15 seconds.
+  B. An electric water heater is an appliance that heats water by converting the home circuit into electricity. Each hot water heating unit operates from 20 amperes. The water tank is insulated for the first 10 seconds; then the water heating element is triggered to heat the tank to above 140 degrees Fahrenheit. It continues heating the water up to 100 degrees Celsius. It then repeats this process every 15 seconds.
+  C. An electric water heater","أ. الأنيبيبات المستقيمة تبطن بظهارة مكعبة
+"
+99,"عند  فحص الساحة البصرية في ضمور ليبر كل مما يلي صحيح ما عدا:
+أ. وجود عتمة مركزية مطلقة للون الأبيض
+ب. حدود الساحة البصرية المحيطية ضمن الحدود الطبيعية
+ج. ضمور العصب البصري يظهر تدريجيا
+د. الشحوب يكون عند الجانب الأنفي خاصة
+ه. تصبح ذات مظهر شمعي
+","This is a multiple-choice question, choose the correct option. The output should consist only of the single letter of the correct answer with no explanation. Example: 
+A: ب
+
+    
+    Question: عند  فحص الساحة البصرية في ضمور ليبر كل مما يلي صحيح ما عدا:
+    
+    Options:
+    أ. وجود عتمة مركزية مطلقة للون الأبيض
+ب. حدود الساحة البصرية المحيطية ضمن الحدود الطبيعية
+ج. ضمور العصب البصري يظهر تدريجيا
+د. الشحوب يكون عند الجانب الأنفي خاصة
+    A: <b>b </b>
+    B: <b>c </b>
+    C: <b>d </b>
+    D: <b>a </b>
+    E: <b>none </b>","د. الشحوب يكون عند الجانب الأنفي خاصة
+"

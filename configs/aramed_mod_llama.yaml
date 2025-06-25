@@ -1,0 +1,18 @@
+experiment_name: aramed_mod_llama3.1 
+
+model:
+  type: huggingface            # Model handler type: openai, huggingface, llama
+  name: meta-llama/Llama-3.1-8B         # Model name or identifier
+
+cache_dir: /scratch/ca2627/huggingface
+
+dataset:
+  path: datasets/aramed_mod/mod_aramed.json    # Path to dataset JSON file
+  instruction_path: datasets/aramed_mod/default.txt  # Path to instruction file 
+
+task:
+  type: aramed                # Task type: qa, summarization, etc.
+
+output:
+  predictions_path: results/predictions/aramed_mod_llama.csv
+  metrics_path: results/metrics/aramed_mod_llama.json

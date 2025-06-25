@@ -1,0 +1,137 @@
+[
+    {
+        "Question": "The human papillomavirus plays a role in causing cancer of the: A. Ovary B. Rectum C. Anus D. Testicle E. Bladder",
+        "Answer": "C. Anus",
+        "id": 1
+    },
+    {
+        "Question": "Obesity is a risk factor for tumors of the: A. Skin B. Bones C. Endometrium D. Lung E. Thyroid",
+        "Answer": "C. Endometrium",
+        "id": 2
+    },
+    {
+        "Question": "Among tumor suppressor genes: A. K-RAS B. BRCA C. P-53 D. ATM E. RB",
+        "Answer": "A. K-RAS",
+        "id": 3
+    },
+    {
+        "Question": "The reciprocal translocation between chromosomes 8 and 14 causes: A. Mantle lymphoma B. Burkitt lymphoma C. Hodgkin lymphoma D. Multiple myeloma E. Acute lymphoblastic leukemia",
+        "Answer": "B. Burkitt lymphoma",
+        "id": 4
+    },
+    {
+        "Question": "Preventive surgery for cancer is beneficial in cases of: A. Fibrocystic breast disease B. Polycystic kidney disease C. Polycystic ovary syndrome D. Celiac disease E. Familial polyposis",
+        "Answer": "E. Familial polyposis",
+        "id": 5
+    },
+    {
+        "Question": "Among the palliative treatments for malignant ascites: A. Chemotherapy for abdominal tumors B. Abdominal radiation therapy C. Diuretics D. Repeated paracentesis E. Peritoneovenous shunt",
+        "Answer": "D. Repeated paracentesis",
+        "id": 6
+    },
+    {
+        "Question": "Palliative surgery is indicated for cancer patients in cases of: A. Loss of appetite B. Neutrophilia C. Bone marrow tumor invasion D. Hypercalcemia E. Pathological fractures",
+        "Answer": "E. Pathological fractures",
+        "id": 7
+    },
+    {
+        "Question": "Regarding doubling time (Doubling Time): A. Hematologic tumors have a longer doubling time than solid tumors B. The average doubling time for most tumors is 2-3 days C. A tumor requires 30 doublings to reach a size of 1 cm D. A tumor requires 30 doublings to grow from 1 g to 1 kg E. A tumor with a diameter of 1 cm contains a million cells",
+        "Answer": "C. A tumor requires 30 doublings to reach a size of 1 cm",
+        "id": 8
+    },
+    {
+        "Question": "Combined chemoradiation therapy before surgery is beneficial for tumors of the: A. Appendix B. Cecum C. Transverse colon D. Sigmoid E. Rectum",
+        "Answer": "E. Rectum",
+        "id": 9
+    },
+    {
+        "Question": "Palliative radiation therapy is beneficial in: A. Relieving pain caused by liver metastases B. Treating lymphedema after axillary clearance C. Stopping diarrhea D. Treating spinal cord compression E. Treating pleural effusion",
+        "Answer": "D. Treating spinal cord compression",
+        "id": 10
+    },
+    {
+        "Question": "The administration of adjuvant radiation therapy for endometrial tumors depends on: A. Tumor size B. Contraindications to chemotherapy C. Elevated tumor markers D. Depth of myometrial invasion E. Preoperative vaginal bleeding",
+        "Answer": "D. Depth of myometrial invasion",
+        "id": 11
+    },
+    {
+        "Question": "The photon beams used in cancer treatment are: A. Electromagnetic waves B. Massless C. Charge-less D. May result from the braking of electron beams E. May result from the breakdown of radioactive isotope nuclei",
+        "Answer": "A. Electromagnetic waves",
+        "id": 12
+    },
+    {
+        "Question": "The tissues with early response in radiation therapy are: A. Bladder mucosa B. Gastric mucosa C. Vascular endothelium D. Bone marrow E. Skin epidermis",
+        "Answer": "C. Vascular endothelium",
+        "id": 13
+    },
+    {
+        "Question": "Regarding the late effects of radiation therapy: A. Are self-limiting B. Occur 6 weeks after radiation therapy C. Occur only within the radiation field D. Are associated with acute reactions E. Are not related to the dose per session",
+        "Answer": "C. Occur only within the radiation field",
+        "id": 14
+    },
+    {
+        "Question": "Fractionation in radiation therapy allows healthy cells to: A. Repair B. Repopulate C. Reconstruct D. Re-oxygenate E. Redistribute",
+        "Answer": "C. Reconstruct",
+        "id": 15
+    },
+    {
+        "Question": "Among the drugs used as a chemotherapeutic adjunct and sensitizer for radiation therapy in laryngeal tumors: A. Cyclophosphamide B. Bleomycin C. Vincristine D. Cisplatin E. Gemcitabine",
+        "Answer": "D. Cisplatin",
+        "id": 16
+    },
+    {
+        "Question": "Radiation therapy is used as a standalone curative treatment for tumors of the: A. Lip B. Vocal cord C. Breast D. Prostate E. Stomach",
+        "Answer": "B. Vocal cord",
+        "id": 17
+    },
+    {
+        "Question": "Regarding the late effects of radiation therapy: A. Are self-limiting B. Occur 6 weeks after radiation therapy C. Occur only within the radiation field D. Are associated with acute reactions E. Are not related to the dose per session",
+        "Answer": "C. Occur only within the radiation field",
+        "id": 18
+    },
+    {
+        "Question": "The electron beams used in cancer treatment are generated by: A. Gamma knife B. Linear accelerator C. Cyclotron D. Cobalt E. Cesium",
+        "Answer": "B. Linear accelerator",
+        "id": 19
+    },
+    {
+        "Question": "Among the antiandrogens used in oncology: A. Letrozol B. Exemestane C. Flutamide D. Fulvestrant E. Ifosfamide",
+        "Answer": "C. Flutamide",
+        "id": 20
+    },
+    {
+        "Question": "The cobalt-60 treatment device is characterized by generating: A. Electrons B. X-rays C. Gamma rays D. Infrared rays E. Ultraviolet rays",
+        "Answer": "C. Gamma rays",
+        "id": 21
+    },
+    {
+        "Question": "The BCG vaccine can be used in the treatment of: A. Acute lymphoblastic leukemia B. Bladder cancer C. Stomach cancer D. Lung cancer E. Nasopharyngeal cancer",
+        "Answer": "B. Bladder cancer",
+        "id": 22
+    },
+    {
+        "Question": "Interleukin-2 can be used in the treatment of: A. Acute myeloid leukemia B. Melanoma C. Ovarian cancer D. Anal cancer E. Cervical cancer",
+        "Answer": "B. Melanoma",
+        "id": 23
+    },
+    {
+        "Question": "Imatinib is used as a first-line treatment for: A. CML B. CLL C. AML D. MM E. MS",
+        "Answer": "A. CML",
+        "id": 24
+    },
+    {
+        "Question": "Among the drugs targeting vascular endothelial growth factor (VEGF): A. Cetuximab B. Trastuzumab C. Bevacizumab D. Rituximab E. Erlotinib",
+        "Answer": "C. Bevacizumab",
+        "id": 25
+    },
+    {
+        "Question": "Among the drugs targeting the BRAF mutation: A. Lapatinib B. Vemurafinib C. Erlotinib D. Gefitinib E. Sunitinib",
+        "Answer": "B. Vemurafinib",
+        "id": 26
+    },
+    {
+        "Question": "Interferon-alpha can be used in the treatment of (except): A. Myeloid leukemia B. Melanoma C. Prostate cancer D. Renal cell carcinoma E. Carcinoid tumor",
+        "Answer": "C. Prostate cancer",
+        "id": 27
+    }
+]

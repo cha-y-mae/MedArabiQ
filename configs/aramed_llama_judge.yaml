@@ -1,0 +1,23 @@
+experiment_name: aramed_claude_judge
+
+# Evaluator LLM (GPT-4 or LLaMA3.1-8B)
+evaluator:
+  type: huggingface            # Options: openai, huggingface
+  name: meta-llama/Llama-3.1-8B-Instruct 
+  cache_dir: /scratch/ca2627/huggingface     # Required if HuggingFace model
+
+# Input file with columns: question, prediction, ground_truth
+dataset:
+  path: results/predictions/aramed_llama3.csv  # input to be evaluated
+
+# Instruction template (used in the evaluator prompt)
+instruction_path: datasets/prompt.txt
+
+# Output file: scored judgments by LLM
+output:
+  judgments_path: results/judgellm/llama_aramed_judge.csv
+
+# Optional: control parameters
+generation:
+  max_tokens: 256
+  temperature: 0.1

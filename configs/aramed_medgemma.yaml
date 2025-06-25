@@ -1,0 +1,16 @@
+experiment_name: aramed_medgemma
+
+model:
+  type: medgemma            # Model handler type: openai, huggingface, llama
+  name: google/medgemma-27b-text-it            # Model name or identifier
+
+dataset:
+  path: datasets/aramed/aramed.json    # Path to dataset JSON file
+  instruction_path: datasets/aramed/default.txt  # Path to instruction file (default.txt)
+
+task:
+  type: aramed                # Task type: qa, summarization, etc.
+
+output:
+  predictions_path: results/predictions/aramed_medgemma.csv
+  metrics_path: results/metrics/aramed_medgemma.json

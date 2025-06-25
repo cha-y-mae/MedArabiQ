@@ -1,0 +1,19 @@
+experiment_name: aramed_gec_deepseek
+
+model:
+  type: deepseek           # Model handler type: openai, huggingface, llama
+  name: deepseek-chat             #model name 
+  api_key: "sk-4e34a449f06447ac91df4039f41b7418"
+
+cache_dir: /scratch/ca2627/huggingface
+
+dataset:
+  path: datasets/aramed_gec/gec_aramed.json    # Path to dataset JSON file
+  instruction_path: datasets/aramed_mod/default.txt  # Path to instruction file 
+
+task:
+  type: aramed                # Task type: qa, summarization, etc.
+
+output:
+  predictions_path: results/predictions/aramed_gec_deepseek.csv
+  metrics_path: results/metrics/aramed_gec_deepseek.json

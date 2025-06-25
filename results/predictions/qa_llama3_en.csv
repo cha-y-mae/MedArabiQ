@@ -1,0 +1,31 @@
+id,input,prediction,ground_truth
+1,"All of the following about syphilis are true except:
+A. The first stage is characterized by negative serological tests.
+B. The first stage is characterized by a painful hard chancre on the genitals.
+C. The second stage presents with rashes on the skin and mucous membranes.
+D. 25% of fetuses die after birth from an infected mother.
+E. A child with congenital syphilis suffers from Hutchinson's teeth.",A,B. The first stage is characterized by a painful hard chancre on the genitals
+2,"Palliative treatments for malignant ascites include:
+A. Chemotherapy for the abdominal tumor.
+B. Abdominal radiation therapy.
+C. Diuretics.
+D. Repeated paracentesis.
+E. Peritoneovenous shunt.",D,D. Repeated paracentesis.
+3,"Which of the following is least likely to be affected in tumoral exophthalmos?
+A. Optic nerve.
+B. Oculomotor nerve (CN III).
+C. Abducens nerve (CN VI).
+D. Vagus nerve (CN X).
+E. None of the above are affected.",B,D. Vagus nerve (CN X).
+4,"All of the following about the mesentery are true except:
+A. It consists of a single layer of peritoneum.
+B. It allows passage of nerves and vessels to the viscera.
+C. The falciform ligament is derived from the ventral mesentery.
+D. The greater omentum originates from the dorsal mesentery of the stomach.
+E. The mesentery of the jejunum and ileum is dorsal in origin.",C,A. It consists of a single layer of peritoneum
+5,"Which of the following ovarian follicle components secretes androstenedione?
+A. Follicular cells.
+B. Granulosa cells.
+C. Theca interna cells.
+D. Theca externa cells.
+E. Primary oocyte.",C,C. Theca interna cells.

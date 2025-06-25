@@ -1,0 +1,656 @@
+id,input,prediction,ground_truth
+1,"Fill in the blank in the following sentence:
+In pregnancy, the membrane that surrounds the amniotic cavity consists of 3 layers: the decidua basalis, the ______, and the amnion. 
+A. Chorion
+B. Trophoblast
+C. Placenta
+D. Mesoderm",A,A. Chorion
+2,"Fill in the blank in the following sentence:
+Erysipelas is a dermal infection caused by _______, and it commonly infects the _____ of the face.
+A. Staphylococcus aureus, epidermis
+B. Streptococci B and C, reticular dermis
+C. Streptococci A and G, papillary dermis
+D. Gram-negative bacilli, subcutaneous tissue",C,"C. Streptococci A and G, papillary dermis
+"
+3,"Fill in the blanks in the following sentence:
+In pleural effusion, decreased or absent tactile fremitus on the affected side suggests ____, which results from ____.
+A. Fluid accumulation; sound insulation
+B. Air entrapment; alveolar collapse
+C. Fibrosis; reduced lung compliance
+D. Tumor growth; bronchial obstruction",A,"A. Fluid accumulation; sound insulation
+"
+4,"Fill in the blanks in the following sentence:
+Iron is transported and stored in the body by 3 main protein classes: (1) transferrins, (2) TFR1 transferrin receptors, and (3) _____. Each transferrin molecule can bind to ____ iron ions.
+A. Caeruloplasmin, 3
+B. Gelsolin, 3
+C. Ferritin, 2
+D. Fibrinogen, 2",C,"C. Ferritin, 2
+"
+5,"Fill in the blanks in the following sentence:
+In addition to its effect on milk production, _____ affects the functions of the hypothalamus, pituitary gland, and the ovarian functions related to the menstrual cycle. It is produced by _____ cells.
+A. Progesterone, myoepithelial
+B. Estrogen, lutein
+C. Oxytocin, granulosa
+D. Prolactin, lactotroph",D,"D. Prolactin, lactotroph"
+6,"Fill in the blank in the following sentence:
+We can attribute ____ in newborns (24 hours or less) to anemia or acidosis.
+A. Pale skin
+B. Jaundiced skin
+C. Red skin
+D. High temperature",B,A. Pale skin
+7,"Fill in the blank in the following sentence:
+In type 2 diabetes, insulin deficiency occurs due to _____, which leads to the body's cells' ability to resist insulin being broken down _____, leading to high blood sugar levels.
+A. Undernutrition, gradually
+B. Insulin resistance, gradually
+C. Chronic stress, completely
+D. Vigorous exercise, constantly",B,"B. Insulin resistance, gradually"
+8,"Fill in the blank in the following statement:
+Carpal Tunnel Syndrome is characterized by motor weakness primarily affecting _____.
+A. Shoulder abduction
+B. Forearm flexors
+C. Ring and little fingers
+D. Thumb opposition ",D,"D. Thumb opposition
+"
+9,"Fill in the blank:
+The pleural effusion type characterized by the accumulation of bacteria-laden fluid is called ____.
+A. Transudate
+B. Hemorrhagic
+C. Empyema
+D. Chylous",C,"C. Empyema
+"
+10,"Fill in the blanks in the following sentence:
+Prognosis in myocarditis depends on factors like ____, with a poor prognosis often linked to ____.
+A. EF levels; dilated cardiomyopathy
+B. Ventricular arrhythmias; pulmonary congestion
+C. Cardiac enzymes; right-sided failure
+D. Exercise tolerance; systolic murmurs",A,"A. EF levels; dilated cardiomyopathy
+"
+11,"Fill in the blank in the following sentence:
+Prostaglandins are synthesized from ______ acid through the enzyme ______.
+A. Palmitic, Cyclooxygenase
+B. Linoleic, Lipoxygenase
+C. Arachidonic, Cyclooxygenase
+D. Stearic, Lipoxygenase",C,"C. Arachidonic, Cyclooxygenase
+"
+12,"Fill in the blanks in the following sentence:
+A diagnostic feature of systolic heart failure is ____, which occurs when the ejection fraction falls below ____.
+A. Ventricular dilation; 40%
+B. Decreased stroke volume; 50%
+C. Decreased EF; 40%
+D. Tachycardia; 60%",C,C. Decreased EF; 40%
+13,"Fill in the blank in the following statement:
+Guillain-Barré Syndrome (GBS) is associated with elevated ____ in the cerebrospinal fluid without an increase in white blood cell count.
+A. Lipids
+B. Proteins
+C. Glucose
+D. Lactate
+",B,B. Proteins
+14,"Fill in the blanks in the following sentence:
+The most commonly used diagnostic tool for confirming DVT is ultrasound, while ____, though more accurate, is reserved for complex cases.
+A. CT Pulmonary Angiography
+B. MRI Venography
+C. Ventilation/Perfusion Scan
+D. CT Venography",D,"B. MRI Venography
+"
+15,"Fill in the blanks in the following sentence:
+Zollinger-Ellison syndrome results from ____-secreting tumors, leading to excessive ____ production.
+A. Gastrin; hydrochloric acid
+B. Insulin; glucose
+C. ACTH; cortisol
+D. Glucagon; bile acids",A,"A. Gastrin; hydrochloric acid
+"
+16,"Fill in the blanks in the following sentence:
+A classic ECG finding in myocarditis is ____, often accompanied by ____.
+A. Prolonged PR interval; ventricular arrhythmias
+B. Tachycardia; T-wave inversion
+C. Bradycardia; ST-segment elevation
+D. QRS widening; atrial flutter",B,"B. Tachycardia; T-wave inversion
+"
+17,"Fill in the blank in the following sentence:
+In skin flora, _____ are the most common organisms.
+A. Staphylococcus epidermidis
+B. Streptococcus
+C. Micrococcus
+E. Gram-negative rods",A,A. Staphylococcus epidermidis
+18,"Fill in the blanks in the following sentence:
+Viral encephalitis often involves memory loss and confusion. Diagnostic methods include ____, which can reveal ____.
+A. EEG, disrupted brain waves
+B. MRI, temporal lobe inflammation
+C. CSF analysis, elevated glucose
+D. CT scan, midline shifts",B,"B. MRI, temporal lobe inflammation
+"
+19,"Fill in the blank in the following sentence:
+In systemic lupus erythematosus, the immune system produces antibodies known as _____, which target nuclear components. The disease can be diagnosed using tests detecting anti-_____ antibodies using immunological methods.
+A. CRP, RNA
+B. ANA, DNA
+C. IL-6, Histone
+D. TNF-alpha, RO",B,"B. ANA, DNA"
+20,"Fill in the blanks in the following sentence:
+The etiology of Interstitial Lung Diseases (ILDs) includes infections such as ____, systemic conditions like ____, and environmental exposures.
+A. Tuberculosis; lupus
+B. Coccidioidomycosis; connective tissue diseases
+C. Histoplasmosis; diabetes mellitus
+D. Aspergillosis; cardiac fibrosis",B,"B. Coccidioidomycosis; connective tissue diseases
+"
+21,"Fill in the blanks in the following sentence:
+Insulinomas typically result in ____ symptoms due to hypoglycemia, with episodes often occurring during fasting or exercise.
+A. Neuroglycopenic
+B. Adrenergic
+C. Neuroglycopenic
+D. Adrenergic",A,"C. Neuroglycopenic
+"
+22,"Fill in the blank in the following sentence:
+A raised area of ​​skin containing pus is known as _____.
+A. Pustule
+B. Vesicle
+C. Bulla
+D. Cyst
+E. Nodule",A,A. Pustule
+23,"Fill in the blank in the following statement:
+Peripheral neuropathy due to vitamin B6 toxicity is characterized by _____.
+A. Loss of tendon reflexes
+B. Sensory ataxia and numbness
+C. Motor paralysis
+D. Increased muscle tone
+",B,"B. Sensory ataxia and numbness
+"
+24,"Fill in the blanks in the following sentence:
+Treatment for acute decompensated heart failure includes ____, particularly in cases of ____.
+A. Diuretics; pulmonary edema
+B. Vasodilators; ventricular hypertrophy
+C. Beta-blockers; arrhythmias
+D. Digoxin; cardiogenic shock",A,A. Diuretics; pulmonary edema
+25,"Fill in the blanks in the following sentence:
+Transient global amnesia (TGA) is characterized by sudden onset of ____, which resolves within ____.
+A. Retrograde amnesia, 48 hours
+B. Executive dysfunction, one week
+C. Anterograde amnesia, 24 hours
+D. Aphasia, 12 hours",C,"C. Anterograde amnesia, 24 hours
+"
+26,"Fill in the blanks in the following sentence:
+In cases of suspected IPF, diagnostic imaging often reveals ____, with only 10% of patients showing normal chest radiographs.
+A. Ground-glass opacities
+B. Consolidations
+C. Nodular infiltrates
+D. Honeycombing",D,"A. Ground-glass opacities
+"
+27,"Fill in the blanks in the following sentence:
+In chest X-rays of pleural effusion, the ____ is often blunted, while larger effusions may cause ____ displacement.
+A. Costophrenic angle; mediastinal
+B. Lung apex; cardiac
+C. Cardiophrenic angle; pulmonary
+D. Hilum; vascular",A,"A. Costophrenic angle; mediastinal
+"
+28,"Fill in the blanks in the following sentence:
+The gold standard for diagnosing ILD involves ____, which allows determination of the extent of cellular involvement and the type of inflammation.
+A. Bronchial brushing
+B. Transbronchial biopsy
+C. High-Resolution CT (HRCT)
+D. Bronchoalveolar lavage (BAL)",D,D. Bronchoalveolar lavage (BAL)
+29,"Fill in the blank in the following sentence: 
+Amniocentesis is a technique used to diagnose genetic abnormalities such as ____.
+A. Cystic fibrosis
+B. Down syndrome 
+C. Sickle cell anemia
+D. Tay-Sachs disease",B,A. Cystic fibrosis
+30,"Fill in the blanks in the following sentence:
+Thalassaemia syndromes are a group of genetic disorders resulting from a deficiency in the synthesis of ___ or ___ globin chains.
+A. α - β
+B. α - γ
+C. δ - β
+D. α - δ",A,A. α - β
+31,"Diabetes mellitus is characterized by a complete or partial deficiency of only one of _____, and the immunological diagnosis of the disease is diagnosed by detecting antibodies such as Glutamic Acid Decarboxylase (GAD) and ____.
+A. Cortisol, IL-6
+B. Glucagon, TSH
+C. Insulin, IAA
+D. Insulin, HLA",C,"C. Insulin, IAA"
+32,"Fill in the blank in the following sentence:
+After birth, there is an increase in the secretion of the hormone _____, which is necessary to maintain the newborn's body temperature.
+A. Cortisol
+B. TSH
+C. T4
+D. T3",D,B. TSH
+33,"Fill in the blanks in the following sentence:
+Pain management in chronic pancreatitis typically begins with ____, escalating to ____ for severe cases.
+A. Antispasmodics; opioid analgesics
+B. NSAIDs; pancreatic enzyme replacement
+C. Antacids; opioids
+D. Opiate analogues; surgery",A,"A. Antispasmodics; opioid analgesics
+"
+34,"Fill in the blank in the following sentence:
+The purpose of perineal thrusting is to reduce rapid dilation of the fetal head because rapid dilation is characteristic of _____.
+A. Tissue tearing
+B. Muscle tone
+C. Bone stretching
+D. Bleeding of membranes",C,A. Tissue tearing
+35,"Fill in the blanks in the following sentence:
+Metabolic causes of coma include ____, while toxic causes commonly involve substances such as ____.
+A. Hepatic encephalopathy; alcohol and barbiturates
+B. Hyponatremia; sedatives and opiates
+C. Hyperkalemia; acetaminophen and antidepressants
+D. Hypocalcemia; cocaine and benzodiazepines",B,"A. Hepatic encephalopathy; alcohol and barbiturates
+"
+36,"Fill in the blank in the following sentence:
+A common symptom in women with hyperprolactinemia is _____.
+A. Galactorrhea
+B. Hypotension
+C. Infertility
+D. Vaginal dryness
+",A,"A. Galactorrhea
+"
+37,"Fill in the blanks in the following sentence:
+The progression of IPF is characterized by ____, leading to irreversible fibrosis and loss of ____.
+A. Alveolar overexpansion; vascular supply
+B. Chronic inflammation; alveolar function
+C. Macrophage infiltration; tissue integrity
+D. Bronchial stenosis; lymphatic drainage",B,"B. Chronic inflammation; alveolar function
+"
+38,"Fill in the blanks in the following sentence:
+Hemorrhagic disease of the newborn is caused by a deficiency of clotting factors related to vitamin _____, and is defined in the laboratory as a decrease in the level of these factors below ____%.
+A. A, 25%
+B. B, 30%
+C. K, 30%
+D. K, 25%",D,"C. K, 30%"
+39,"Fill in the blanks in the following sentence:
+Heart failure with preserved ejection fraction (HFpEF) differs from HFrEF in that it ____, whereas HFrEF ____.
+A. Causes ventricular dilation; causes concentric hypertrophy
+B. Involves reduced EF; maintains normal EF
+C. Preserves contractility; impairs relaxation
+D. Maintains EF > 50%; has an EF < 40%",C,D. Maintains EF > 50%; has an EF < 40%
+40,"Fill in the blanks in the following sentence:
+The most common infectious cause of myocarditis is ____, whereas a rare cause includes ____.
+A. Adenovirus; Epstein-Barr virus
+B. Coxsackie B virus; Trypanosoma cruzi
+C. Hepatitis B virus; Cytomegalovirus
+D. Influenza virus; Trypanosoma cruzi",B,B. Coxsackie B virus; Trypanosoma cruzi
+41,"Fill in the blank in the following sentence:
+Medications such as ____ and dopamine antagonists can cause hyperprolactinemia.
+A. Beta blockers
+B. Tricyclic antidepressants
+C. Corticosteroids
+D. Proton pump inhibitors",B,"B. Tricyclic antidepressants
+"
+42,"Fill in the blanks in the following sentence:
+Pleural effusion with a protein level > 3 g/dL and a high LDH concentration is classified as ____, often seen in pneumonia.
+A. Transudate
+B. Exudate
+C. Transudate
+D. Chylous effusion",B,B. Exudate
+43,"Fill in the blanks in the following sentence:
+Chronic pancreatitis patients often develop ____, which results from a reduction in pancreatic enzyme secretion.
+A. Hyperglycemia
+B. Steatorrhea
+C. Jaundice
+D. Esophageal varices",B,"B. Steatorrhea
+"
+44,"Fill in the blanks in the following sentence:
+In the differential diagnosis of coma, imaging such as CT scan can exclude ____, while lab tests help identify ____.
+A. Brainstem injuries; hepatic encephalopathy
+B. Intracranial hemorrhage; metabolic imbalances
+C. Cerebral infarction; drug toxicity
+D. Spinal cord injury; electrolyte disturbances",C,"B. Intracranial hemorrhage; metabolic imbalances
+"
+45,"Fill in the blanks in the following sentence:
+In cases of memory loss caused by metabolic disturbances, ____ is a common factor, often presenting with symptoms of ____.
+A. Hyponatremia, seizures
+B. Hyperglycemia, irritability
+C. Hypocalcemia, tetany
+D. Hypokalemia, paralysis",B,"A. Hyponatremia, seizures"
+46,"Fill in the blank in the following sentence:
+The virus that causes chickenpox is ____, and the disease is transmitted by contact with ____ lesions of infected people or with their nasal spray.
+A. EBV, airborne
+B. CMV, indirect
+C. HSV, direct
+D. VZV, direct",D,"D. VZV, direct"
+47,"Fill in the blank in the following sentence:
+In false labour, the womb experiences light, uneven, inconsistent, and painless contractions called ______ contractions.
+A. Preterm
+B. Uterine 
+C. Latent
+D. Braxton Hicks",D,D. Braxton Hicks
+48,"Fill in the blank in the following sentence:
+In fetal circulation, ____ exists to divert ____blood entering into the right atrium to the left atrium to be pumped into circulation.
+A. Foramen magnum, oxygenated
+B. Foramen ovale, oxygenated
+C. Foramen lacerum, deoxygenated
+D. Ductus venosus, deoxygenated",B,"B. Foramen ovale, oxygenated"
+49,"Fill in the blanks in the following sentence:
+Neuroglycopenic symptoms of insulinoma include ____, ____, and amnesia.
+A. Dizziness; diplopia
+B. Nausea; hunger
+C. Sweating; tachycardia
+D. Tremors; anxiety",A,"A. Dizziness; diplopia
+"
+50,"Fill in the blank in the following sentence:
+Congenital torticollis is caused by an injury of the _______ muscle, and it appears 2-3 weeks after birth as a hard lump in the middle of the affected muscle.
+A. Stylohyoid
+B. Digastric
+C. Geniohyoid 
+D. Sternocleidomastoid",D,D. Sternocleidomastoid
+51,"Fill in the blank in the following sentence:
+One of the autoimmune causes of adrenal insufficiency is _____, which is associated with 21-hydroxylase antibodies.
+A. Sarcoidosis
+B. Tuberculosis
+C. Autoimmune Adrenalitis
+D. Hemochromatosis
+",C,"C. Autoimmune Adrenalitis
+"
+52,"Fill in the blank in the following sentence:
+A key biochemical abnormality in some patients with epilepsy is a reduction in the inhibitory neurotransmitter _____.
+A. Glutamate
+B. GABA
+C. Dopamine
+D. Serotonin
+",B,"B. GABA
+"
+53,"Fill in the blank in the following sentence:
+Intestinal infections (gastroenteritis) may be accompanied by symptoms such as vomiting and diarrhea, and the most important complication is ___, which is assessed on clinical examination by sunken eyes or fontanelles and delayed capillary refill.
+A. Dehydration
+B. Sore throat
+C. Muscle pain
+D. Hemoptysis",A,A. Dehydration
+54,"Fill in the blanks in the following sentence:
+The hallmark imaging finding in chronic calcifying pancreatitis is ____, often linked to ____.
+A. Pseudocysts; idiopathic causes
+B. Calcifications; alcohol abuse
+C. Ductal stenosis; autoimmune pancreatitis
+D. Enlarged pancreas; hypertriglyceridemia",B,"B. Calcifications; alcohol abuse
+"
+55,"Fill in the blanks in the following sentence:
+Memory loss following encephalitis is commonly caused by ____, which leads to symptoms such as ____ and temporary or permanent amnesia.
+A. CMV, executive dysfunction
+B. HSV, retrograde amnesia
+C. EBV, visual hallucinations
+D. Influenza virus, confusion",B,"B. HSV, retrograde amnesia"
+56,"Fill in the blank in the following sentence:
+One of the autoimmune causes of hyperthyroidism is _____ disease, which is associated with the presence of thyroid-stimulating antibodies.
+A. Addison's
+B. Graves'
+C. Hashimoto's
+D. Cushing's",B,"B. Graves'
+"
+57,"Fill in the blanks in the following sentence:
+Treatment of severe myocarditis includes inotropic agents like ____, which are particularly useful in cases of reduced EF.
+A. Dobutamine
+B. Epinephrine
+C. Digoxin
+D. Norepinephrine",A,"A. Dobutamine
+"
+58,"Fill in the blanks in the following sentences:
+Among the factors that play a role in the transcription of genes responsible for transformation:
+1. The gene ___ is the main regulator of transformation.
+2. The state of the ___ of the gene.
+3. The sequence of ___ and the chromosome promoter.
+
+A. BCL11A - Methylation - Splicing
+B. BCL2 - Expression - Transcription
+C. MYC - Methylation - Sequence
+D. TP53 - Splicing - Expression",A,A. BCL11A - Methylation - Splicing
+59,"Fill in the blanks in the following sentence:
+In infants, acute pharyngitis is typically treated using antibiotics such as _____ and ______.
+A. Emtricitabine, Foscarnet
+B. Cephalosporins, Microlides
+C. Idoxuridine, Acyclovir
+D. Vancomycin, Microlides",D,"B. Cephalosporins, Microlides
+"
+60,"Fill in the blanks in the following sentence:
+A positive D-Dimer test indicates possible thrombus, while a negative test effectively ____.
+A. Rules out PE
+B. Excludes thromboembolism
+C. Excludes cardiac embolism
+D. Rules out inflammation",A,"B. Excludes thromboembolism
+"
+61,"Fill in the blank in the following sentence:
+Several days before labor begins, the fetus's _____ levels rise, stimulating the enzyme system to convert T4 to the metabolically active T3.
+A. Cortisol
+B. Estrogen
+C. Insulin
+D. Prolactin",B,A. Cortisol
+62,"Fill in the blanks in the following sentence:
+Hypoxic encephalopathy leading to coma is commonly caused by ____, resulting in ____.
+A. Stroke; focal deficits
+B. Cardiac arrest; global hypoperfusion
+C. Liver failure; metabolic acidosis
+D. Alcohol intoxication; respiratory alkalosis",B,"B. Cardiac arrest; global hypoperfusion
+"
+63,"Fill in the blank in the following sentence:
+The pathological cause of keratolysis latina is _____ and ____.
+A. Micrococci and Sedentarius
+B. Streptococcus and Staphylococcus
+C. Escherichia coli and Klebsiella
+D. Pseudomonas and Clostridium",A,A. Micrococci and Sedentarius
+64,"Fill in the blanks in the following sentence:
+Erb-Duchenne palsy is caused by a slight decrease in the size of the ____ and _____ of the brachial plexus, resulting in an extreme position of the limb in internal adduction to assist with the characteristic elbow position.
+A. C5, C6
+B. C3, C4
+C. C4, C5
+D. C6, C7",C,"A. C5, C6"
+65,"Fill in the blank in the following statement:
+The ""Waiter Tip"" position in brachial plexus injuries is caused by the injury of _____.
+A. C5 and C6 roots
+B. T1 root
+C. Median nerve
+D. Ulnar nerve",A,A. C5 and C6 roots
+66,"Fill in the blank in the following sentence:
+The metabolic acidosis in DKA is caused by the accumulation of _____, which are produced due to the breakdown of fatty acids in the absence of insulin.
+A. Lactic acid
+B. Beta-hydroxybutyrate
+C. Pyruvic acid
+D. Acetyl-CoA",B,"B. Beta-hydroxybutyrate
+"
+67,"Fill in the blanks in the following sentence:
+The presence of ____ on imaging often indicates complications like pseudocysts or abscesses in chronic pancreatitis.
+A. Fibrosis
+B. Ductal calcifications
+C. Mass lesions
+D. Fluid collections",D,D. Fluid collections
+68,"Fill in the blank in the following sentence:
+In newborns, ______ appears as short focal muscle tremors affecting the extremities. In this condition, the newborn is generally conscious but the tremors may last for a long period of time, affecting consciousness and leading to cyanosis. 
+A. Acid Maltase Deficiency
+B. Muscular Dystrophy
+C. Rhabdomyolysis
+D. Amytrophic Lateral Sclerosis (ALS)",C,B. Muscular Dystrophy
+69,"Fill in the blank in the following sentence:
+On routine examination of a child, ___________ is the most likely cause of scrotal enlargement and a positive opacity test.
+A. Testicular breast
+B. Epididymitis
+C. Hydrocele
+D. Inguinal hernia",C,C. Hydrocele
+70,"Fill in the blanks in the following sentence:
+One of the most common inherited risk factors for DVT is ____, caused by a mutation in ____.
+A. Factor VIII deficiency; Factor VIII
+B. Protein S deficiency; Protein S
+C. Factor V Leiden; Factor V
+D. Prothrombin mutation; Factor II",C,"C. Factor V Leiden; Factor V
+"
+71,"Fill in the blank in the following sentence:
+Perineal thrust is a procedure done to protect the perineal tissue and ____ from tearing.
+A. Skin
+B. Membranes
+C. Labia
+D. Muscles",B,C. Labia
+72,"Fill in the blanks in the following sentence:
+Exudative pleural effusion is commonly caused by ____, whereas transudative effusion is associated with ____.
+A. Infections; organ failure
+B. Malignancies; autoimmune diseases
+C. Increased capillary permeability; increased hydrostatic pressure
+D. Pulmonary embolism; nephrotic syndrome",C,"C. Increased capillary permeability; increased hydrostatic pressure
+"
+73,"Fill in the blanks in the following sentence:
+In the ubmillical cord, the blood vessels are surrounded by a gelatinous substance called _____, which is largely made up of ______ and whose main function is to insulate and protect the umbillical cord in the womb.
+A. Wharton's Jelly - Collagen
+B. Cartilage - Proteins
+C. Wharton's Jelly, Mucopolysaccharides
+D. Amniotic Fluid - Hyaluronic Acid",C,"C. Wharton's Jelly, Mucopolysaccharides"
+74,"Fill in the blanks in the following sentence:
+The accumulation of fluid in pleural effusion is due to an imbalance between ____ and ____.
+A. Oncotic pressure; hydrostatic pressure
+B. LDH concentration; protein levels
+C. Triglycerides; cholesterol
+D. Fluid output; capillary integrity",A,"A. Oncotic pressure; hydrostatic pressure
+"
+75,"Fill in the blanks in the following sentence:
+Thrombolytic agents like ____, are reserved for cases of massive DVT or PE with hemodynamic compromise.
+A. Warfarin
+B. Clopidogrel
+C. Aspirin
+D. Streptokinase  ",D,D. Streptokinase  
+76,"Fill in the blanks in the following sentence:
+In cases of barbiturate poisoning, coma is characterized by ____, with treatment involving ____.
+A. Pinpoint pupils; naloxone administration
+B. Hypothermia; flumazenil use
+C. Hyporeflexia; supportive care
+D. Agitation; glucose infusion",C,"C. Hyporeflexia; supportive care
+"
+77,"Fill in the blanks in the following sentence:
+Symptoms of right-sided heart failure include ____, while left-sided heart failure commonly presents with ____.
+A. Pulmonary edema; peripheral edema
+B. Peripheral edema; pulmonary congestion
+C. Hypertension; hypotension
+D. Bradycardia; tachycardia",B,"B. Peripheral edema; pulmonary congestion
+"
+78,"Fill in the blanks in the following sentence:
+Clinical symptoms of chronic pancreatitis typically include ____, while steatorrhea becomes evident when pancreatic lipase secretion falls below ____ of normal.
+A. Epigastric pain; 10%
+B. Weight loss; 30%
+C. Nausea; 25%
+D. Jaundice; 50%",B,"A. Epigastric pain; 10%
+"
+79,"Fill in the blanks in the following sentence:
+In newborn infants (36 hours or less), bleeding under the _____ is usually harmless, while bleeding in the _____ indicates a serious injury.
+A. Cornea, sclera
+B. Conjunctiva, retina
+C. Conjunctiva, cornea
+D. Lens, retina",C,"B. Conjunctiva, retina"
+80,"Fill in the blank in the following sentence:
+Herpes simplex virus causes lesions in the _____ area and is transmitted by direct contact or sexual contact.
+A. Mucocutaneous junction
+B. Upper half of the body
+C. Internal organs
+D. Nails",A,A. Mucocutaneous junction
+81,"Fill in the blanks in the following sentence:
+Chylothorax, a rare form of pleural effusion, is caused by ____, leading to the accumulation of ____.
+A. Malignancy; blood-stained fluid
+B. Bacterial infections; purulent material
+C. Trauma; protein-depleted fluid
+D. Lymphatic disruption; triglyceride-rich fluid",D,D. Lymphatic disruption; triglyceride-rich fluid
+82,"Fill in the blank in the following sentence:
+In cases of adrenal insufficiency, dehydration can result from _____ and increased ADH release.
+A. Hyponatremia
+B. Hyperkalemia
+C. Hypocalcemia
+D. Hyperglycemia
+",A,"A. Hyponatremia
+"
+83,"Fill in the blanks in the following sentence:
+After fertilization, blastomeres divide continously for 72 hours until they form a 16 cell ball called the ____, which then turns into a blastocyst.
+A. Blastula
+B. Zygote
+C. Morula
+D.Gastrula",C,C. Morula
+84,"Fill in the blanks in the following sentence:
+The diagnosis of insulinoma is confirmed by demonstrating fasting hypoglycemia, with blood glucose levels below ____ and insulin levels ____ during an episode.
+A. 100 mg/dL; elevated
+B. 70 mg/dL; suppressed
+C. 40 mg/dL; elevated
+D. 50 mg/dL; suppressed",B,"C. 40 mg/dL; elevated
+"
+85,"Fill in the blanks in the following sentence:
+In managing acute DVT, initial therapy involves ____, followed by long-term therapy with ____.
+A. Heparin; Warfarin
+B. Aspirin; Rivaroxaban
+C. Clopidogrel; Apixaban
+D. Thrombolytics; Low-dose aspirin",A,"A. Heparin; Warfarin
+"
+86,"Fill in the blanks in the following sentence:
+In cases of dementia, the D in the acronym DEMENTIAS refers to _____. This condition is commonly caused by ____ or improper use of medications.
+A. Depression, B12 deficiency
+B. Drugs, alcohol toxicity
+C. Dehydration, thyroid dysfunction
+D. Dementia, genetic mutations",B,"B. Drugs, alcohol toxicity
+"
+87,"Fill in the blank in the following sentence:
+Topical treatment of keratolysis externa depends on the use of _____.
+A. Erythromycin
+B. Penicillin
+C. Ciprofloxacin
+D. Tetracycline",D,A. Erythromycin
+88,"Fill in the blank in the following sentence:
+A distinguishing feature of generalized tonic-clonic seizures (GTCs) is _____.
+A. The absence of convulsions
+B. High-pitched crying
+C. Symmetrical movement of all limbs
+D. Loss of memory",C,"C. Symmetrical movement of all limbs
+"
+89,"Fill in the blanks in the following sentence:
+In the context of myocarditis, elevated WBC and ESR levels are suggestive of ____, while viral antibody testing helps confirm ____.
+A. A systemic infection; autoimmune etiology
+B. A bacterial superinfection; co-infections
+C. Acute inflammation; the specific viral agent
+D. Chronic inflammation; immune suppression",C,C. Acute inflammation; the specific viral agent
+90,"Fill in the blank in the following sentence:
+In Graves' disease, the presence of _____ antibodies against TSH receptors results in hyperthyroidism.
+A. inhibitory
+B. neutral
+C. cytotoxic
+D. stimulatory",D,D. stimulatory
+91,"Fill in the blank in the following sentence:
+In DKA, the body experiences severe dehydration due to _____ diuresis, leading to a loss of electrolytes such as sodium and _____.
+A. hormonal, calcium
+B. oncotic, magnesium
+C. osmotic, potassium
+D. renal, chloride",C,"C. osmotic, potassium
+"
+92,"Fill in the blanks in the following sentence:
+A diagnostic test for pancreatic exocrine insufficiency measures ____ levels in stool, which decrease significantly in advanced chronic pancreatitis.
+A. Amylase
+B. Lipase
+C. Chymotrypsin
+D. Elastase",D,D. Elastase
+93,"Fill in the blank in the following sentence:
+Among the most commonly used diagnostic tests for paroxysmal nocturnal hemoglobinuria are _____ and ______.
+A. Coombs test - Flow cytometry
+B. Hartmann's sugar water test, Ham's test
+C. Sugar water test - Reticulocyte count
+D. Ham's test - Direct antiglobulin test",D,"B. Hartmann's sugar water test, Ham's test
+"
+94,"Fill in the blanks in the following sentence:
+Definitive imaging for identifying structural abnormalities in chronic pancreatitis includes ____, which is superior to ultrasound in detecting _____.
+A. CT scan; pseudocysts
+B. MRCP; calcifications
+C. Endoscopic ultrasound; fibrosis
+D. MRI; vascular abnormalities",B,"C. Endoscopic ultrasound; fibrosis
+"
+95,"Fill in the blanks in the following sentence:
+A Light’s criteria diagnosis of exudative effusion is met when pleural fluid LDH exceeds ____ of the upper limit of normal serum LDH.
+A. 30%
+B. 50%
+C. 60%
+D. 70%",B,D. 70%
+96,"Fill in the blank in the following sentence:
+Multi-endocrine neoplasia syndromes can occasionally present with concurrent _____ and hyperthyroidism.
+A. pheochromocytoma
+B. pituitary adenoma
+C. adrenal insufficiency
+D. parathyroid hyperplasia",A,A. pheochromocytoma
+97,"Fill in the blank in the following sentence:
+Sideroblastic anemia is characterized by the presence of blasts in ___ in which iron is located in a ring around the nucleus.
+A. Periosteum
+B. Bone marrow
+C. Articular cartilage
+D. Spongy bone",B,"B. Bone marrow
+"
+98,"Fill in the blank in the following sentence:
+Diabetic ketoacidosis (DKA) is a life-threatening condition that primarily occurs in patients with type _____ diabetes and is characterized by metabolic _____.
+A. 1, Acidosis
+B. 2, Alkalosis
+C. 1, Alkalosis
+D. 2, Acidosis",D,"A. 1, Acidosis"
+99,"Fill in the blank in the following sentence:
+In the diagnosis of adrenal insufficiency, the Short Synacthen Test involves injecting _____ and measuring cortisol levels after 30 minutes.
+A. 100 mg of hydrocortisone
+B. 250 mcg of ACTH
+C. 5 mg of prednisolone
+D. 50 mcg of dexamethasone
+",B,"B. 250 mcg of ACTH
+"

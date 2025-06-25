@@ -1,0 +1,463 @@
+id,input,prediction,ground_truth
+1,"يلعب فايروس الورم الحليمي البشري دورًا في حدوث سرطان:
+
+A. مبيض
+B. مستقيم
+C. شرج
+D. خصية
+E. مثانة","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+يلعب فايروس الورم الحليمي البشري دورًا في حدوث سرطان:
+
+A. مبيض
+B. مستقيم
+C. شرج
+D. خصية
+E. مثانة
+C. شرج",C. شرج
+2,"البدانة عامل خطر لحدوث أورام:
+
+A. جلد
+B. عظام
+C. بطانة رحم
+D. رئة
+E. درق","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+البدانة عامل خطر لحدوث أورام:
+
+A. جلد
+B. عظام
+C. بطانة رحم
+D. رئة
+E. درقية
+The correct answer is C. بطانة رحم.","C. بطانة رحم
+"
+3,"من المورثات الكابحة للورم:
+
+A. K-RAS
+B. BRCA
+C. P-53
+D. ATM
+E. RB","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+من المورثات الكابحة للورم:
+
+A. K-RAS
+B. BRCA
+C. P-53
+D. ATM
+E. RB1
+C. P-53","A. K-RAS
+"
+4,"الازفاء المتبادل بين الكروموزوم 8 و 14 يسبب:
+
+A. لمفوما مانتيل
+B. لمفوما بوركت
+C. لمفوما هودجكن
+D. نقيوم متعدد
+E. ابيضاض لمفاوي حاد","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+الازفاء المتبادل بين الكروموزوم 8 و 14 يسبب:
+
+A. لمفوما مانتيل
+B. لمفوما بوركت
+C. لمفوما هودجكن
+D. نقيوم متعدد
+E. ابيضاض لمفاوي حاد
+The correct answer is B. لمفوما بوركت.","B. لمفوما بوركت
+"
+5,"تفيد الجراحة الوقائية من السرطان في حالات:
+
+A. الداء الكيسي الليفي في الثدي
+B. الكلية متعددة الكيسات
+C. المبيض متعدد الكيسات
+D. الداء الزلاقي
+E. داء البوليبات العائلي","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+تفيد الجراحة الوقائية من السرطان في حالات:
+
+A. الداء الكيسي الليفي في الثدي
+B. الكلية متعددة الكيسات
+C. المبيض متعدد الكيسات
+D. الداء الزلاقي
+E. داء البوليبات العائلي
+A. الداء الكيسي الليفي في الثدي","E. داء البوليبات العائلي
+"
+6,"من العلاجات التلطيفية للحبن الخبيث:
+
+A. المعالجة الكيميائية للورم البطني
+B. المعالجة الشعاعية للبطن
+C. المدرات
+D. البزل المتكرر
+E. تحويلة بريتوانية وريدية","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+من العلاجات التلطيفية للحبن الخبيث:
+
+A. المعالجة الكيميائية للورم البطني
+B. المعالجة الشعاعية للبطن
+C. المدرات
+D. البزل المتكرر
+E. تحويلة بريتوانية وريدية
+C. المدرات",D. البزل المتكرر
+7,"تستطب الجراحة التلطيفية عند مرضى الأورام في حالات:
+
+A. نقص الشهية
+B. ارتفاع المعتدلات
+C. الغزو الورمي لنقي العظم
+D. ارتفاع كلس الدم
+E. الكسور المرضية","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+تستطب الجراحة التلطيفية عند مرضى الأورام في حالات:
+
+A. نقص الشهية
+B. ارتفاع المعتدلات
+C. الغزو الورمي لنقي العظم
+D. ارتفاع كلس الدم
+E. الكسور المرضية
+The correct answer is C. الغزو الورمي لنقي العظم (Osteosarcoma invasion of the bone).","E. الكسور المرضية
+"
+8,"فيما يتعلق بزمن التضاعف (Doubling Time):
+
+A. الأورام الدموية لها زمن تضاعف أطول من الأورام الصلبة
+B. متوسط زمن التضاعف لأغلب الأورام هو 2-3 يوم
+C. يتطلب الورم 30 زمن تضاعف حتى يصبح بحجم 1 سم
+D. يتطلب الورم 30 زمن تضاعف حتى ينمو من 1 غ إلى 1 كغ
+E. ورم بقطر 1 سم يحتوي على مليون خلية","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+فيما يتعلق بزمن التضاعف (Doubling Time):
+
+A. الأورام الدموية لها زمن تضاعف أطول من الأورام الصلبة
+B. متوسط زمن التضاعف لأغلب الأورام هو 2-3 يوم
+C. يتطلب الورم 30 زمن تضاعف حتى يصبح بحجم 1 سم
+D. يتطلب الورم 30 زمن تضاعف حتى ينمو من 1 غ إلى 1 كغ
+E. ورم بقطر 1 سم يحتوي على مليون خلية
+
+The correct answer is C. It takes 30 doubling times for a tumor to grow to a size of 1 cm.","C. يتطلب الورم 30 زمن تضاعف حتى يصبح بحجم 1 سم
+"
+9,"العلاج الشعاعي الكيميائي المشترك قبل الجراحة يفيد في أورام:
+
+A. الزائدة الدودية
+B. الأعور
+C. الكولون المعترض
+D. السين
+E. المستقيم","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+العلاج الشعاعي الكيميائي المشترك قبل الجراحة يفيد في أورام:
+
+A. الزائدة الدودية
+B. الأعور
+C. الكولون المعترض
+D. السين
+E. المستقيم
+The correct answer is C. الكولون المعترض.","E. المستقيم
+"
+10,"تفيد المعالجة الشعاعية التلطيفية في:
+
+A. تسكين الألم الناجم عن النقائل الكبدية
+B. معالجة الوذمة اللمفاوية بعد تجريف الإبط
+C. إيقاف الإسهال
+D. معالجة انضغاط النخاع الشوكي
+E. معالجة انصباب الجنب","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+تفيد المعالجة الشعاعية التلطيفية في:
+
+A. تسكين الألم الناجم عن النقائل الكبدية
+B. معالجة الوذمة اللمفاوية بعد تجريف الإبط
+C. إيقاف الإسهال
+D. معالجة انضغاط النخاع الشوكي
+E. معالجة انصباب الجنب
+The correct answer is B. معالجة الوذمة اللمفاوية بعد تجريف الإبط. This option refers to the use of radiation therapy to treat lymphedema (swelling caused by the buildup of lymph fluid) that occurs after axillary dissection (removal of lymph nodes under the arm).","D. معالجة انضغاط النخاع الشوكي
+"
+11,"يعتمد إعطاء علاج شعاعي متمم في أورام بطانة الرحم على:
+
+A. حجم الورم
+B. وجود مضاد استطباب للعلاج الكيميائي
+C. ارتفاع الواسمات الورمية
+D. مقدار غزو الطبقة العضلية
+E. وجود نزف نسائي قبل الجراحة","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+يعتمد إعطاء علاج شعاعي متمم في أورام بطانة الرحم على:
+
+A. حجم الورم
+B. وجود مضاد استطباب للعلاج الكيميائي
+C. ارتفاع الواسمات الورمية
+D. مقدار غزو الطبقة العضلية
+E. وجود نزف نسائي قبل الجراحة
+The correct answer is A. حجم الورم.","D. مقدار غزو الطبقة العضلية
+"
+12,"يز حزمة الفوتونات المستخدمة في معالجة الأورام:
+
+A. هي أمواج كهرطيسية
+B. ليس لها كتلة
+C. ليس لها شحنة
+D. قد تنجم عن حادثة فرملة حزمة الإلكترونات
+E. قد تنجم عن تحطم نوى بعض النظائر المشعة","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+يز حزمة الفوتونات المستخدمة في معالجة الأورام:
+
+A. هي أمواج كهرطيسية
+B. ليس لها كتلة
+C. ليس لها شحنة
+D. قد تنجم عن حادثة فرملة حزمة الإلكترونات
+E. قد تنجم عن تحطم نوى بعض النظائر المشعة
+The correct answer is D. قد تنجم عن حادثة فرملة حزمة الإلكترونات. This option states that the photons used in cancer treatment can be produced by the braking of an electron beam, which is a common method for generating high-energy photons used in radiation therapy.","A. هي أمواج كهرطيسية
+"
+13,"الأنسجة ذات الارتكاس الباكر في المعالجة الشعاعية:
+
+A. مخاطية المثانة
+B. مخاطية المعدة
+C. البطانة الوعائية
+D. نقي العظم
+E. بشرة الجلد","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+الأنسجة ذات الارتكاس الباكر في المعالجة الشعاعية:
+
+A. مخاطية المثانة
+B. مخاطية المعدة
+C. البطانة الوعائية
+D. نقي العظم
+E. بشرة الجلد
+The correct answer is C. البطانة الوعائية (Vascular lining).","C. البطانة الوعائية
+"
+14,"بالنسبة للتأثيرات المتأخرة للمعالجة الشعاعية:
+
+A. تعتبر ذاتية الانتهاء
+B. تحدث بعد 6 أسابيع من العلاج الشعاعي
+C. تحدث فقط ضمن الحقل الشعاعي
+D. ترتبط بالارتكاسات الحادة
+E. لا ترتبط بمقدار الجرعة في كل جلسة","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+بالنسبة للتأثيرات المتأخرة للمعالجة الشعاعية:
+
+A. تعتبر ذاتية الانتهاء
+B. تحدث بعد 6 أسابيع من العلاج الشعاعي
+C. تحدث فقط ضمن الحقل الشعاعي
+D. ترتبط بالارتكاسات الحادة
+E. لا ترتبط بمقدار الجرعة في كل جلسة
+A. تعتبر ذاتية الانتهاء","C. تحدث فقط ضمن الحقل الشعاعي
+"
+15,"تسمح التجزئة في المعالجة الشعاعية للخلايا السليمة بـ:
+
+A. Repair
+B. Repopulation
+C. Reconstruction
+D. Re-oxygenation
+E. Redistribution","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+تسمح التجزئة في المعالجة الشعاعية للخلايا السليمة بـ:
+
+A. Repair
+B. Repopulation
+C. Reconstruction
+D. Re-oxygenation
+E. Redistribution
+The correct answer is A. Repair.","C. Reconstruction
+"
+16,"من الأدوية التي تستخدم كمعالجة كيميائية مشاركة ومحسسة للمعالجة الشعاعية في أورام الحنجرة:
+
+A. Cyclophosphamide
+B. Bleomycin
+C. Vincristine
+D. Cisplatin
+E. Gemcitabine","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+من الأدوية التي تستخدم كمعالجة كيميائية مشاركة ومحسسة للمعالجة الشعاعية في أورام الحنجرة:
+
+A. Cyclophosphamide
+B. Bleomycin
+C. Vincristine
+D. Cisplatin
+E. Gemcitabine
+The correct answer is D. Cisplatin.","D. Cisplatin
+"
+17,"تستخدم المعالجة الشعاعية كمعالجة شافية لوحدها في أورام:
+
+A. الشفة
+B. الحبل الصوتي
+C. الثدي
+D. البروستات
+E. المعدة","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+تستخدم المعالجة الشعاعية كمعالجة شافية لوحدها في أورام:
+
+A. الشفة
+B. الحبل الصوتي
+C. الثدي
+D. البروستات
+E. المعدة
+The correct answer is C. الثدي.","B. الحبل الصوتي
+"
+18,"بالنسبة للتأثيرات المتأخرة للمعالجة الشعاعية:
+
+A. تعتبر ذاتية الانتهاء
+B. تحدث بعد 6 أسابيع من العلاج الشعاعي
+C. تحدث فقط ضمن الحقل الشعاعي
+D. ترتبط بالارتكاسات الحادة
+E. لا ترتبط بمقدار الجرعة في كل جلسة","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+بالنسبة للتأثيرات المتأخرة للمعالجة الشعاعية:
+
+A. تعتبر ذاتية الانتهاء
+B. تحدث بعد 6 أسابيع من العلاج الشعاعي
+C. تحدث فقط ضمن الحقل الشعاعي
+D. ترتبط بالارتكاسات الحادة
+E. لا ترتبط بمقدار الجرعة في كل جلسة
+A. تعتبر ذاتية الانتهاء","C. تحدث فقط ضمن الحقل الشعاعي
+"
+19,"تنتج حزمة الإلكترونات المستخدمة في معالجة الأورام من:
+
+A. الغاما نايف
+B. المسرع الخطي
+C. المسرع الحلقي
+D. الكوبالت
+E. السيزيوم","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+تنتج حزمة الإلكترونات المستخدمة في معالجة الأورام من:
+
+A. الغاما نايف
+B. المسرع الخطي
+C. المسرع الحلقي
+D. الكوبالت
+E. السيزيوم
+The correct answer is B. المسرع الخطي (Linear Accelerator).","B. المسرع الخطي
+"
+20,"من مضادات الأندروجين المستخدمة في علم الأورام:
+
+A. Letrozol
+B. Exemestane
+C. Flutamide
+D. Fulvestrant
+E. Ifosfamide","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+من مضادات الأندروجين المستخدمة في علم الأورام:
+
+A. Letrozol
+B. Exemestane
+C. Flutamide
+D. Fulvestrant
+E. Ifosfamide
+The correct answer is C. Flutamide.","C. Flutamide
+"
+21,"يتميز جهاز المعالجة بالكوبالت 60 بأنه يولد أشعة:
+
+A. إلكترونية
+B. سينية
+C. غاما
+D. تحت حمراء
+E. فوق بنفسجية","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+يتميز جهاز المعالجة بالكوبالت 60 بأنه يولد أشعة:
+
+A. إلكترونية
+B. سينية
+C. غاما
+D. تحت حمراء
+E. فوق بنفسجية
+C. غاما","C. غاما
+"
+22,"يمكن استخدام لقاح BCG في علاج:
+
+A. ابيضاض لمفاوي حاد
+B. سرطان مثانة
+C. سرطان معدة
+D. سرطان رئة
+E. سرطان بالبلعوم الأنفي","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+يمكن استخدام لقاح BCG في علاج:
+
+A. ابيضاض لمفاوي حاد
+B. سرطان مثانة
+C. سرطان معدة
+D. سرطان رئة
+E. سرطان بالبلعوم الأنفي
+The correct answer is B. سرطان مثانة (Bladder Cancer).","B. سرطان مثانة
+"
+23,"يمكن استخدام الإنترلوكين-2 في علاج:
+
+A. ابيضاض نقوي حاد
+B. ميلانوما
+C. سرطان مبيض
+D. سرطان شرج
+E. سرطان عنق الرحم","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+يمكن استخدام الإنترلوكين-2 في علاج:
+
+A. ابيضاض نقوي حاد
+B. ميلانوما
+C. سرطان مبيض
+D. سرطان شرج
+E. سرطان عنق الرحم
+B. ميلانوما","B. ميلانوما
+"
+24,"يستخدم الـ Imatinib كخط أول في علاج:
+
+A. CML
+B. CLL
+C. AML
+D. MM
+E. MS","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+يستخدم الـ Imatinib كخط أول في علاج:
+
+A. CML
+B. CLL
+C. AML
+D. MM
+E. MS
+A. CML","A. CML
+"
+25,"من الأدوية التي تستهدف عامل النمو البطاني VEGF:
+
+A. Cetuximab
+B. Trastuzumab
+C. Bevacizumab
+D. Rituximab
+E. Erlotinib","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+من الأدوية التي تستهدف عامل النمو البطاني VEGF:
+
+A. Cetuximab
+B. Trastuzumab
+C. Bevacizumab
+D. Rituximab
+E. Erlotinib
+C. Bevacizumab","C. Bevacizumab
+"
+26,"من الأدوية التي تستهدف طفرة الـ BRAF:
+
+A. Lapatinib
+B. Vemurafinib
+C. Erlotinib
+D. Gefitinib
+E. Sunitinib","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+من الأدوية التي تستهدف طفرة الـ BRAF:
+
+A. Lapatinib
+B. Vemurafinib
+C. Erlotinib
+D. Gefitinib
+E. Sunitinib
+B. Vemurafinib","B. Vemurafinib
+"
+27,"يمكن استخدام الإنترفيرون ألفا في علاج (عدا):
+
+A. ابيضاض الدم النقوي
+B. ميلانوما
+C. سرطان بروستات
+D. سرطان كلية كلوية
+E. كارسينوئيد","Please read the question carefully and choose only one option from the provided choices (A, B, C, D, or E). Do not provide multiple answers or explanations. Ensure the selected letter matches the text description of the answer. Return the letter followed by its associated text.
+
+يمكن استخدام الإنترفيرون ألفا في علاج (عدا):
+
+A. ابيضاض الدم النقوي
+B. ميلانوما
+C. سرطان بروستات
+D. سرطان كلية كلوية
+E. كارسينوئيد
+The correct answer is:
+
+C. سرطان بروستات
+
+Explanation: Interferon alpha is used in the treatment of prostate cancer, among other conditions.","C. سرطان بروستات
+"

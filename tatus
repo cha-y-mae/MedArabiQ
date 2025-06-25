@@ -1,0 +1,71 @@
+[1mdiff --git a/.ipynb_checkpoints/README-checkpoint.md b/.ipynb_checkpoints/README-checkpoint.md[m
+[1mindex 5613b0e..79eabe9 100644[m
+[1m--- a/.ipynb_checkpoints/README-checkpoint.md[m
+[1m+++ b/.ipynb_checkpoints/README-checkpoint.md[m
+[36m@@ -1,6 +1,6 @@[m
+ # ArabicLLMBench[m
+ [m
+[31m-This repository benchmarks Arabic large language models (LLMs) for various tasks such as question-answering (QA), summarization, and more.[m
+[32m+[m[32mThis repository benchmarks Arabic large language models (LLMs) for various tasks such as question-answering (QA), summarization, dialogue simulation, and clinical note generation.[m
+ [m
+ ## Contents[m
+ 1. [Overview](#overview)[m
+[36m@@ -29,14 +29,14 @@[m [mArabicLLMBench is a framework for evaluating and benchmarking language models on[m
+     export HF_TOKEN="your_huggingface_api_key_here"[m
+ [m
+ 5. Modify/create config file[m
+[31m-    Config are stored under folder /configs and they define model type, model name, dataset paths etc.[m
+[31m-     Make sure to specify your cache_dir![m
+[32m+[m[32m    Config files are stored under folder /configs and they define model type, model name, dataset paths etc.[m
+[32m+[m[32m     Make sure to specify your cache_dir in the config![m
+ [m
+ 7. Run experiment[m
+    To run an experiment, make sure you execute the script from the root directory of the repository.[m
+    Change 2nd argument to the path of the desired config file. Example below:[m
+    ```bash[m
+[31m-   python scripts/run_experiment.py configs/qa_llama.yaml [m
+[32m+[m[32m   python scripts/run_experiment.py configs/qa_gpt4.yaml[m[41m [m
+ [m
+ [m
+    [m
+[1mdiff --git a/README.md b/README.md[m
+[1mindex ba66f4c..441ff76 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -36,7 +36,7 @@[m [mArabicLLMBench is a framework for evaluating and benchmarking language models on[m
+    To run an experiment, make sure you execute the script from the root directory of the repository.[m
+    Change 2nd argument to the path of the desired config file. Example below:[m
+    ```bash[m
+[31m-   python scripts/run_experiment.py configs/qa_llama.yaml [m
+[32m+[m[32m   python scripts/run_experiment.py configs/aramed_claude.yaml[m[41m [m
+ [m
+ [m
+    [m
+[1mdiff --git a/datasets/qa/.ipynb_checkpoints/default-checkpoint.txt b/datasets/qa/.ipynb_checkpoints/default-checkpoint.txt[m
+[1mindex c2324ec..40eea83 100644[m
+[1m--- a/datasets/qa/.ipynb_checkpoints/default-checkpoint.txt[m
+[1m+++ b/datasets/qa/.ipynb_checkpoints/default-checkpoint.txt[m
+[36m@@ -1 +1 @@[m
+[31m-Choose the best option (A, B, C, D, or E). Return only the letter and its associated text. Do not include any other explanations or repeat the question.[m
+[32m+[m[32mThis is a multiple-choice question, choose the correct option. The output should consist only and exactly of the single letter of the correct answer with no explanation.[m
+[1mdiff --git a/datasets/qa/default.txt b/datasets/qa/default.txt[m
+[1mindex c2324ec..40eea83 100644[m
+[1m--- a/datasets/qa/default.txt[m
+[1m+++ b/datasets/qa/default.txt[m
+[36m@@ -1 +1 @@[m
+[31m-Choose the best option (A, B, C, D, or E). Return only the letter and its associated text. Do not include any other explanations or repeat the question.[m
+[32m+[m[32mThis is a multiple-choice question, choose the correct option. The output should consist only and exactly of the single letter of the correct answer with no explanation.[m
+[1mdiff --git a/datasets/qa/oncology_qa.json b/datasets/qa/oncology_qa.json[m
+[1mdeleted file mode 100644[m
+[1mindex 1f4deef..0000000[m
+[1m--- a/datasets/qa/oncology_qa.json[m
+[1m+++ /dev/null[m
+[36m@@ -1,137 +0,0 @@[m
+[31m-[[m
+[31m-    {[m
+[31m-        "Question": "يلعب فايروس الورم الحليمي البشري دورًا في حدوث سرطان:\n\nA. مبيض\nB. مستقيم\nC. شرج\nD. خصية\nE. مثانة",[m
+[31m-        "Answer": "C. شرج",[m
+[31m-        "id": 1[m
+[31m-    },[m
+[31m-    {[m
+[31m-        "Question": "البدانة عام

@@ -1,0 +1,4 @@
+class ModelHandlerBase:
+    def prompt(self, prompt):
+        """Generate a response to the given prompt."""
+        raise NotImplementedError("Subclasses must implement the `prompt` method.")

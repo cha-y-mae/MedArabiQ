@@ -1,0 +1,36 @@
+Readme: 
+-api keys : export OPENAI_API_KEY="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"
+Set cache globally: 
+
+-mismlatch pip and python location: python -m pip install --upgrade openai
+-openai version: Version: 0.27.8
+
+
+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 
+
+errors: 
+-scripts module: 
+export PYTHONPATH=/scratch/ca2627/clinicalAI/ArabicLLMBench:$PYTHONPATH
+
+-deepseek api: export DEEPSEEK_API_KEY="sk-4e34a449f06447ac91df4039f41b7418"
+
+
+-huggingface login: 
+export HF_TOKEN="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"
+
+
+Command to explicitly set pip to venv
+export PATH=/home/ca2627/.conda/envs/arabic_llm/bin:$PATH
+
+
+export ANTHROPIC_API_KEY="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"
+
+
+Gemini API 
+export GEMINI_API_KEY="AIzaSyDBukhtho_Jn_hP38qXijG_HS4KVtxcsDE"
+
+
+old: Anthropic API: 
+export ANTHROPIC_API_KEY="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"
+
+
