@@ -27,6 +27,9 @@ ArabicLLMBench is a framework for evaluating and benchmarking language models on
    ```bash 
     export OPENAI_API_KEY="your_openai_api_key_here"
     export HF_TOKEN="your_huggingface_api_key_here"
+    export DEEPSEEK_API_KEY="your_deepseek_api_key_here"
+    export ANTHROPIC_API_KEY=""
+    export GEMINI_API_KEY=""
 
 5. Modify/create config file
     Config files are stored under folder /configs and they define model type, model name, dataset paths etc.
