@@ -3,7 +3,7 @@ experiment_name: qa_gemini
 model:
   type: gemini            # Model handler type: openai, huggingface, llama
   name: gemini-1.5-pro            # Model name or identifier
-  api_key: "AIzaSyDBukhtho_Jn_hP38qXijG_HS4KVtxcsDE"
+  api_key: ""
 
 dataset:
   path: datasets/qa/qa.json    # Path to dataset JSON file
